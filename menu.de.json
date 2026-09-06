@@ -1,0 +1,1457 @@
+{
+  "baseIngredients": {
+    "Vorratskammer": [
+      "Natives Olivenöl extra",
+      "Salz",
+      "Knoblauch",
+      "Petersilie",
+      "Zitrone"
+    ]
+  },
+  "weeks": [
+    {
+      "label": "Woche A",
+      "days": [
+        {
+          "day": "Montag",
+          "fruit": "🍎 Pink Lady Apfel",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Basmatireis-Salat mit Thunfisch",
+                "detail": "Basmatireis, Thunfisch in Öl, Kirschtomaten, Oliven, Schnittlauch",
+                "kcal": 480,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Basmatireis"
+                  ],
+                  "Vorratskammer": [
+                    "Thunfisch in Öl",
+                    "Entkernte Oliven"
+                  ],
+                  "Gemüse": [
+                    "Kirschtomaten",
+                    "Schnittlauch",
+                    "Gemischter Salat"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Kalte Pasta mit Pesto und Kirschtomaten",
+                  "detail": "Kurze Pasta, Pesto Genovese, Kirschtomaten, entkernte Oliven",
+                  "kcal": 470
+                },
+                {
+                  "name": "Fladenbrot mit Kochschinken und Gemüse",
+                  "detail": "Fladenbrot, Kochschinken, Salat, Kirschtomaten",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Ofengebratene Putenbrust mit Zucchini",
+                "detail": "Putenbrust, gebratene Zucchini, Rosmarin, natives Olivenöl extra",
+                "kcal": 520,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Putenbrust"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ],
+                  "Vorratskammer": [
+                    "Rosmarin"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Gedämpfter Lachs mit Weißkohl",
+                  "detail": "Lachsfilet, geschmorter Zucchini mit Apfelessig",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pasta mit Tomatensauce und Ricotta",
+                  "detail": "Pasta, Tomatenpassata, frischer Ricotta, Basilikum",
+                  "kcal": 540
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Dienstag",
+          "fruit": "🍓 Frische Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Dinkel mit Thunfisch, Oliven und Kirschtomaten",
+                "detail": "Perldinkel, Thunfisch in Öl, Oliven, Kirschtomaten, Basilikum",
+                "kcal": 460,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Perldinkel"
+                  ],
+                  "Vorratskammer": [
+                    "Thunfisch in Öl",
+                    "Entkernte Oliven"
+                  ],
+                  "Gemüse": [
+                    "Kirschtomaten",
+                    "Frisches Basilikum",
+                    "Frischer Basilikum"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Fladenbrot mit Brathähnchen und Senf",
+                  "detail": "Fladenbrot, gebratenes Hähnchen in Scheiben, Salat, Senf",
+                  "kcal": 440
+                },
+                {
+                  "name": "Kalte Pasta mit Artischockenpesto und Thunfisch",
+                  "detail": "Kurze Pasta, Artischockenpesto, Thunfisch, Oliven",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Hähnchenbrust in der Pfanne mit Zucchini",
+                "detail": "Hähnchenbrustscheiben, Zucchini, Kirschtomaten, Basilikum",
+                "kcal": 510,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Hähnchenbrust"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Kirschtomaten",
+                    "Frisches Basilikum",
+                    "Frischer Basilikum"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Geschmorte Calamari mit Tomate und Oliven",
+                  "detail": "Calamari, Tomatenpassata, Oliven, Kapern, Petersilie",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta mit Wurst-Zucchini-Sauce",
+                  "detail": "Pasta, zerbröckelte toskanische Wurst, Zucchini, Tomate",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "fruit": "🍌 Banane",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Couscous mit roten Linsen und Kurkuma",
+                "detail": "Couscous, rote Linsen, Frühlingszwiebeln, Kurkuma, Zitrone",
+                "kcal": 440,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Couscous",
+                    "Rote Linsen"
+                  ],
+                  "Gemüse": [
+                    "Frühlingszwiebeln"
+                  ],
+                  "Vorratskammer": [
+                    "Kurkuma"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Thunfischsalat mit Rucola und Oliven",
+                  "detail": "Thunfisch in Öl, Rucola, Frühlingszwiebeln, Oliven, Apfelessig",
+                  "kcal": 430
+                },
+                {
+                  "name": "Kalte Pasta mit Zucchini und Minze",
+                  "detail": "Kurze Pasta, gegrillte Zucchini, Minze, natives Olivenöl extra, Zitrone",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Wolfsbarschfilet mit Samen und Zucchini",
+                "detail": "Wolfsbarsch mit Samen, geschmorter Weißkohl mit Apfelessig",
+                "kcal": 530,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Wolfsbarsch mit Samen"
+                  ],
+                  "Gemüse": [
+                    "Weißkohl",
+                    "Zucchini"
+                  ],
+                  "Vorratskammer": [
+                    "Apfelessig"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Gebratene Garnelen mit Zucchini und Basmatireis",
+                  "detail": "Garnelen, Zucchini, Knoblauch, natives Olivenöl extra, Basmatireis",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pasta mit Venusmuscheln und Kirschtomaten",
+                  "detail": "Spaghetti, Venusmuscheln, Kirschtomaten, Knoblauch, Petersilie",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "fruit": "🍓 Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Basmatireis mit Brathähnchen und Zucchini",
+                "detail": "Basmatireis, Brathähnchen, gebratene Zucchini, Schnittlauch",
+                "kcal": 470,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Basmatireis"
+                  ],
+                  "Fleisch & Fisch": [
+                    "Brathähnchen"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Schnittlauch"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Dinkelsalat mit Räucherlachs",
+                  "detail": "Dinkel, Räucherlachs, Frühlingszwiebeln, Kapern, Zitrone",
+                  "kcal": 460
+                },
+                {
+                  "name": "Couscous mit gegrilltem Gemüse und Feta",
+                  "detail": "Couscous, Zucchini, Zucchini, Frühlingszwiebeln, zerbröckelter Feta",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Geschnittene Schweinelende mit Zucchini",
+                "detail": "In der Pfanne angebratene Schweinelende, Zucchini mit Knoblauch",
+                "kcal": 540,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Geschnittene Schweinelende"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Ofengebackene Seezunge mit gratinierter Zucchini",
+                  "detail": "Große Seezunge, Zucchini aus dem Ofen mit Semmelbröseln und Zitrone",
+                  "kcal": 480
+                },
+                {
+                  "name": "Linsensuppe mit geröstetem Fladenbrot",
+                  "detail": "Linsen, Karotte, Sellerie, Zwiebel, Tomate, Kreuzkümmel",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "fruit": "🍌 Banane",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Kalter Couscous mit Garnelen und Zucchini",
+                "detail": "Couscous, gekochte Garnelen, Zucchini, Minze, Zitrone",
+                "kcal": 450,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Couscous"
+                  ],
+                  "Fleisch & Fisch": [
+                    "Garnelen"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Minze"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Fladenbrot mit Räucherlachs und Frühlingszwiebeln",
+                  "detail": "Fladenbrot, Räucherlachs, Frühlingszwiebeln, natives Olivenöl extra",
+                  "kcal": 440
+                },
+                {
+                  "name": "Kalter Dinkel mit Thunfisch und Zucchini",
+                  "detail": "Dinkel, Thunfisch, geröstete Zucchini, Oliven, Petersilie",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Zucchini-Frittata aus dem Ofen mit Salat",
+                "detail": "Frittata aus 3 Eiern mit Zucchini und Kräutern, im Ofen gebacken, angemachter Salat",
+                "kcal": 420,
+                "ingredients": {
+                  "Milchprodukte & Eier": [
+                    "Eier"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Eisbergsalat",
+                    "Gemischter Salat"
+                  ],
+                  "Vorratskammer": [
+                    "Kräuter",
+                    "Natives Olivenöl extra"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Spiegeleier mit Tomate und Vollkornbrot",
+                  "detail": "Spiegeleier auf angebratener Tomate, geröstetes Vollkornbrot",
+                  "kcal": 380
+                },
+                {
+                  "name": "Cordon bleu aus dem Ofen mit griechischem Kefir und Salat",
+                  "detail": "AIA Cordon bleu aus dem Ofen, griechischer Kefir als Sauce, Salat",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Samstag",
+          "fruit": "🍎 Pink Lady Äpfel",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Schweineschnitzel mit Zucchini aus dem Ofen",
+                "detail": "Panierte Schnitzel aus dem Ofen, gratinierte Zucchini und neue Kartoffeln",
+                "kcal": 540,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Panierte Schweineschnitzel"
+                  ],
+                  "Gemüse": [
+                    "Rucola",
+                    "Zucchini",
+                    "Neue Kartoffeln",
+                    "Kartoffeln"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit frischer Tomatensauce und Basilikum",
+                  "detail": "Pasta, frische Kirschtomaten, Basilikum, Knoblauch, natives Olivenöl extra",
+                  "kcal": 490
+                },
+                {
+                  "name": "Dinkel mit Kichererbsen, Zucchini und Oliven",
+                  "detail": "Dinkel, Kichererbsen, geröstete Zucchini, Oliven, Petersilie, Zitrone",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Pizza Margherita",
+                "detail": "Tomatenmark, Mozzarella, Basilikum — hausgemacht",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Mehl Typ 00",
+                    "Bierhefe",
+                    "Mozzarella"
+                  ],
+                  "Vorratskammer": [
+                    "Tomatenmark"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza Schinken und Pilze",
+                  "detail": "Tomate, Mozzarella, Kochschinken, Pilze",
+                  "kcal": 720
+                },
+                {
+                  "name": "Pizza Wurst und Zucchini",
+                  "detail": "Tomate, Mozzarella, zerbröckelte Wurst, Zucchini",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "fruit": "🍓 Erdbeeren oder Saisonobst",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Toskanische Wurst mit Zucchini und Kartoffeln",
+                "detail": "Gebratene Wurst, Zucchini, knusprige Kartoffeln",
+                "kcal": 620,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Toskanische Wurst"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Kartoffeln"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Hackfleisch-Ragout",
+                  "detail": "Pasta, gemischtes Hackfleisch Rind/Schwein, Karotte, Sellerie, Zwiebel, Tomate",
+                  "kcal": 590
+                },
+                {
+                  "name": "Geschmorte Kichererbsen mit Tomate und Rosmarin",
+                  "detail": "Kichererbsen, Tomatenpassata, Rosmarin, Knoblauch, natives Olivenöl extra, Fladenbrot",
+                  "kcal": 540
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Valdostana mit gemischtem Salat",
+                "detail": "Leichte Hähnchen-Valdostana, Saisonsalat",
+                "kcal": 500,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Hähnchen-Valdostana"
+                  ],
+                  "Gemüse": [
+                    "Gemischter Salat"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Seezunge mit Zitrone und geschmorten Zucchini",
+                  "detail": "Große Seezunge aus dem Ofen, Zucchini mit Knoblauch und Petersilie geschmort",
+                  "kcal": 470
+                },
+                {
+                  "name": "Schweinehackfleisch mit Zucchini und Basmatireis",
+                  "detail": "Schweinehack in der Pfanne mit Zucchini, Tomate, Basmatireis",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Woche B",
+      "days": [
+        {
+          "day": "Montag",
+          "fruit": "🍓 Erdbeeren oder Kirschen",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Kalte Pasta mit Thunfisch, Artischocken und Oliven",
+                "detail": "Kurze Pasta, Thunfisch, Artischockenpesto, entkernte Oliven",
+                "kcal": 460,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Pasta"
+                  ],
+                  "Vorratskammer": [
+                    "Thunfisch in Öl",
+                    "Artischockenpesto",
+                    "Entkernte Oliven"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous mit gegrilltem Gemüse und Feta",
+                  "detail": "Couscous, Zucchini, Zucchini, Frühlingszwiebeln, zerbröckelter Feta",
+                  "kcal": 450
+                },
+                {
+                  "name": "Basmatireis mit Räucherlachs und Frühlingszwiebeln",
+                  "detail": "Basmatireis, Räucherlachs, Frühlingszwiebeln, Zitrone",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Cordon Bleu aus dem Ofen mit Rucolasalat",
+                "detail": "Cordon Bleu aus dem Ofen, roher Rucola mit Zitrone und nativem Olivenöl extra",
+                "kcal": 490,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "AIA Cordon Bleu"
+                  ],
+                  "Gemüse": [
+                    "Rucola",
+                    "Gemischter Salat"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Tomatensauce, Basilikum und Oliven",
+                  "detail": "Pasta, Tomatenpassata, Oliven, Basilikum, natives Olivenöl extra",
+                  "kcal": 500
+                },
+                {
+                  "name": "Hähnchenbrust mit Zucchini und Kirschtomaten",
+                  "detail": "Hähnchenbrust in der Pfanne, Zucchini, Kirschtomaten, Basilikum",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Dienstag",
+          "fruit": "🍌 Banane",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Kalter Dinkel mit Linsen und Gemüse",
+                "detail": "Dinkel, rote Linsen, Zucchini, Frühlingszwiebeln, Kurkuma, Zitrone",
+                "kcal": 455,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Perldinkel",
+                    "Rote Linsen"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Frühlingszwiebeln"
+                  ],
+                  "Vorratskammer": [
+                    "Kurkuma"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Fladenbrot mit Thunfisch und gemischtem Gemüse",
+                  "detail": "Fladenbrot, Thunfisch in Öl, Kirschtomaten, Salat, Oliven",
+                  "kcal": 430
+                },
+                {
+                  "name": "Basmatireis-Salat mit Hähnchen und Zucchini",
+                  "detail": "Basmatireis, Brathähnchen, geröstete Zucchini, Oliven",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Geschnittene Schweinelende mit Weißkohl",
+                "detail": "Angebratene Schweinelende, geschmorter Weißkohl mit Apfelessig",
+                "kcal": 530,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Geschnittene Schweinelende"
+                  ],
+                  "Gemüse": [
+                    "Weißkohl"
+                  ],
+                  "Vorratskammer": [
+                    "Apfelessig"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Venusmuscheln und Zucchini",
+                  "detail": "Spaghetti, Venusmuscheln, Zucchini, Knoblauch, Petersilie, natives Olivenöl extra",
+                  "kcal": 510
+                },
+                {
+                  "name": "Kichererbsen-Tomatensuppe mit Fladenbrot",
+                  "detail": "Kichererbsen, Tomate, Rosmarin, Knoblauch, natives Olivenöl extra, geröstetes Fladenbrot",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "fruit": "🍎 Pink Lady Apfel",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Fladenbrot mit Kochschinken und Rucola",
+                "detail": "Fladenbrot, hochwertiger Kochschinken, roher Rucola, Senf",
+                "kcal": 420,
+                "ingredients": {
+                  "Vorratskammer": [
+                    "Fladenbrot"
+                  ],
+                  "Fleisch & Fisch": [
+                    "Kochschinken"
+                  ],
+                  "Gemüse": [
+                    "Rucola"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous mit Garnelen und Minze",
+                  "detail": "Couscous, gekochte Garnelen, Minze, Zitrone, natives Olivenöl extra",
+                  "kcal": 450
+                },
+                {
+                  "name": "Kalte Pasta mit Pesto Genovese und Kirschtomaten",
+                  "detail": "Kurze Pasta, Pesto Genovese, Kirschtomaten, Oliven",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Zucchini-Kartoffel-Frittata",
+                "detail": "Frittata aus 3 Eiern mit Zucchini und gebratenen Kartoffeln, Kräuter nach Belieben",
+                "kcal": 460,
+                "ingredients": {
+                  "Milchprodukte & Eier": [
+                    "Eier"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Kartoffeln"
+                  ],
+                  "Vorratskammer": [
+                    "Natives Olivenöl extra"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Zucchini-Frittata mit Salat",
+                  "detail": "Frittata aus 2-3 Eiern mit Zucchini, angemachter gemischter Salat",
+                  "kcal": 390
+                },
+                {
+                  "name": "Cordon bleu aus dem Ofen mit gebratener Zucchini",
+                  "detail": "AIA Cordon bleu aus dem Ofen, in der Pfanne gebratene Zucchini",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "fruit": "🍓 Frische Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Dinkel mit Thunfisch, Oliven und Kirschtomaten",
+                "detail": "Perldinkel, Thunfisch in Öl, Oliven, Kirschtomaten, Basilikum",
+                "kcal": 460,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Perldinkel"
+                  ],
+                  "Vorratskammer": [
+                    "Thunfisch in Öl",
+                    "Entkernte Oliven"
+                  ],
+                  "Gemüse": [
+                    "Kirschtomaten",
+                    "Frisches Basilikum",
+                    "Frischer Basilikum"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Basmatireis mit roten Linsen und Kurkuma",
+                  "detail": "Basmatireis, rote Linsen, Frühlingszwiebeln, Kurkuma, Zitrone",
+                  "kcal": 450
+                },
+                {
+                  "name": "Kalter Couscous mit Gemüse und Feta",
+                  "detail": "Couscous, Zucchini, Zucchini, zerbröckelter Feta, Oliven",
+                  "kcal": 445
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Putenbrust mit Zucchini",
+                "detail": "Ofengebratene Putenbrust, Zucchini mit Knoblauch gebraten",
+                "kcal": 500,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Putenbrust"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Gefüllte Calamari mit Tomate",
+                  "detail": "Calamari, Semmelbrösel, Petersilie, Knoblauch, Tomatenpassata",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pasta mit Hackfleisch-Tomatensauce",
+                  "detail": "Pasta, gemischtes Hackfleisch Rind/Schwein, Passata, Karotte, Sellerie, Zwiebel",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "fruit": "🍌 Banane oder Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Dinkelsalat mit Lachs und Kapern",
+                "detail": "Dinkel, Räucherlachs, Kapern, Frühlingszwiebeln, Zitrone",
+                "kcal": 460,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Perldinkel"
+                  ],
+                  "Fleisch & Fisch": [
+                    "Räucherlachs"
+                  ],
+                  "Gemüse": [
+                    "Frühlingszwiebeln",
+                    "Gemischter Salat"
+                  ],
+                  "Vorratskammer": [
+                    "Kapern"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Kalte Pasta mit Zucchini und Minze",
+                  "detail": "Kurze Pasta, gegrillte Zucchini, Minze, natives Olivenöl extra, Zitrone",
+                  "kcal": 440
+                },
+                {
+                  "name": "Fladenbrot mit Hähnchen und gegrilltem Gemüse",
+                  "detail": "Fladenbrot, Brathähnchen, gegrillte Zucchini",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Schweineschnitzel mit gemischtem Salat",
+                "detail": "Panierte Schnitzel aus dem Ofen, angemachter Eisbergsalat",
+                "kcal": 530,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Panierte Schweineschnitzel"
+                  ],
+                  "Gemüse": [
+                    "Eisbergsalat",
+                    "Gemischter Salat"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Kichererbsen-Rosmarin-Sauce",
+                  "detail": "Kurze Pasta, Kichererbsen, Tomate, Rosmarin, Knoblauch, natives Olivenöl extra",
+                  "kcal": 520
+                },
+                {
+                  "name": "Ofengebackene Seezunge mit geschmorten Zucchini",
+                  "detail": "Große Seezunge aus dem Ofen, Zucchini mit Knoblauch und Petersilie geschmort",
+                  "kcal": 470
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Samstag",
+          "fruit": "🍎 Äpfel oder Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Basmatireis mit Garnelen und Zucchini",
+                "detail": "Basmatireis, gebratene Garnelen, Zucchini, Knoblauch, natives Olivenöl extra",
+                "kcal": 490,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Basmatireis"
+                  ],
+                  "Fleisch & Fisch": [
+                    "Garnelen"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit frischer Tomatensauce und Basilikum",
+                  "detail": "Pasta, frische Kirschtomaten, Basilikum, Knoblauch, natives Olivenöl extra",
+                  "kcal": 490
+                },
+                {
+                  "name": "Couscous mit Kichererbsen und geröstetem Gemüse",
+                  "detail": "Couscous, Kichererbsen, geröstete Zucchini, Frühlingszwiebeln, Kreuzkümmel",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Pizza Margherita",
+                "detail": "Tomatenmark, Mozzarella, Basilikum — hausgemacht",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Mehl Typ 00",
+                    "Bierhefe",
+                    "Mozzarella"
+                  ],
+                  "Vorratskammer": [
+                    "Tomatenmark"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza Schinken und Zucchini",
+                  "detail": "Tomate, Mozzarella, Kochschinken, gegrillte Zucchini",
+                  "kcal": 700
+                },
+                {
+                  "name": "Pizza Thunfisch und Zwiebel",
+                  "detail": "Tomate, Mozzarella, Thunfisch, Frühlingszwiebeln",
+                  "kcal": 710
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "fruit": "🍓 Saisonobst",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Schweinehackfleisch mit Zucchini und Kartoffeln",
+                "detail": "Schweinehack, Zucchini, Kartoffeln, Tomate, Rosmarin",
+                "kcal": 600,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Gemischtes Hackfleisch Rind/Schwein"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Kartoffeln"
+                  ],
+                  "Vorratskammer": [
+                    "Rosmarin"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Linsen-Ragout",
+                  "detail": "Pasta, Linsen, Karotte, Sellerie, Zwiebel, Tomate, Rosmarin",
+                  "kcal": 550
+                },
+                {
+                  "name": "Toskanische Wurst mit geschmortem Weißkohl",
+                  "detail": "Gebratene Wurst, geschmorter Weißkohl mit Apfelessig",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Hähnchenbrust in der Pfanne mit Zucchini",
+                "detail": "Hähnchenbrust, gebratene Zucchini, Knoblauch, natives Olivenöl extra",
+                "kcal": 490,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Hähnchenbrust"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Wolfsbarschfilet mit Zucchini aus dem Ofen",
+                  "detail": "Wolfsbarsch mit Samen, Zucchini aus dem Ofen mit Zitrone und nativem Olivenöl extra",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta mit Venusmuscheln und Kirschtomaten",
+                  "detail": "Spaghetti, Venusmuscheln, Kirschtomaten, Knoblauch, Petersilie",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Woche C",
+      "days": [
+        {
+          "day": "Montag",
+          "fruit": "🍌 Banane oder Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Couscous mit Linsen und Kirschtomaten",
+                "detail": "Couscous, rote Linsen, Kirschtomaten, Petersilie, Zitrone",
+                "kcal": 440,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Couscous",
+                    "Rote Linsen"
+                  ],
+                  "Gemüse": [
+                    "Kirschtomaten",
+                    "Frühlingszwiebeln"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Fladenbrot mit Räucherlachs und Frühlingszwiebeln",
+                  "detail": "Fladenbrot, Räucherlachs, Frühlingszwiebeln, natives Olivenöl extra",
+                  "kcal": 440
+                },
+                {
+                  "name": "Basmatireis-Salat mit Garnelen und Zucchini",
+                  "detail": "Basmatireis, gekochte Garnelen, Zucchini, Minze, Zitrone",
+                  "kcal": 460
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Valdostana aus dem Ofen mit gemischtem Salat",
+                "detail": "Leichte Hähnchen-Valdostana, angemachter gemischter Salat",
+                "kcal": 510,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Hähnchen-Valdostana"
+                  ],
+                  "Gemüse": [
+                    "Gemischter Salat"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Calamari-Tomatensauce",
+                  "detail": "Pasta, Calamari, Tomatenpassata, Oliven, Petersilie",
+                  "kcal": 520
+                },
+                {
+                  "name": "Geschnittene Schweinelende mit gebratener Zucchini",
+                  "detail": "Angebratene Schweinelende, Zucchini in der Pfanne gebraten",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Dienstag",
+          "fruit": "🍓 Frische Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Kalte Pasta mit Artischockenpesto und Thunfisch",
+                "detail": "Kurze Pasta, Artischockenpesto, Thunfisch, Oliven, Kirschtomaten",
+                "kcal": 455,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Pasta"
+                  ],
+                  "Vorratskammer": [
+                    "Artischockenpesto",
+                    "Thunfisch in Öl",
+                    "Entkernte Oliven"
+                  ],
+                  "Gemüse": [
+                    "Kirschtomaten"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Dinkel mit Brathähnchen und Gemüse",
+                  "detail": "Dinkel, Brathähnchen, Zucchini, Frühlingszwiebeln, natives Olivenöl extra",
+                  "kcal": 465
+                },
+                {
+                  "name": "Basmatireis mit Linsen und Kurkuma",
+                  "detail": "Basmatireis, rote Linsen, Kurkuma, Frühlingszwiebeln, Zitrone",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Putenbrust in der Pfanne mit Zucchini",
+                "detail": "Putenbrust, Zucchini mit Knoblauch und Petersilie geschmort",
+                "kcal": 500,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Putenbrust"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Ofengebackene Seezunge mit Weißkohl",
+                  "detail": "Große Seezunge aus dem Ofen, geschmorter Weißkohl",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pasta mit Tomatensauce, Oliven und Kapern",
+                  "detail": "Pasta, Tomatenpassata, Oliven, Kapern, Oregano",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mittwoch",
+          "fruit": "🍎 Pink Lady Äpfel",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Dinkelsalat mit Thunfisch und Kirschtomaten",
+                "detail": "Dinkel, Thunfisch in Öl, Kirschtomaten, Oliven, Basilikum",
+                "kcal": 455,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Perldinkel"
+                  ],
+                  "Vorratskammer": [
+                    "Thunfisch in Öl",
+                    "Entkernte Oliven"
+                  ],
+                  "Gemüse": [
+                    "Kirschtomaten",
+                    "Frisches Basilikum",
+                    "Frischer Basilikum",
+                    "Gemischter Salat"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous mit Garnelen, Zucchini und Minze",
+                  "detail": "Couscous, gekochte Garnelen, Zucchini, Minze, Zitrone",
+                  "kcal": 450
+                },
+                {
+                  "name": "Fladenbrot mit Kochschinken und Rucola",
+                  "detail": "Fladenbrot, hochwertiger Kochschinken, roher Rucola, Kirschtomaten",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Cordon Bleu mit gerösteter Zucchini",
+                "detail": "Cordon Bleu aus dem Ofen, gemischte geröstete Zucchini mit Oliven",
+                "kcal": 520,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "AIA Cordon Bleu"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Venusmuscheln und Zucchini",
+                  "detail": "Spaghetti, Venusmuscheln, Zucchini, Knoblauch, Petersilie, natives Olivenöl extra",
+                  "kcal": 510
+                },
+                {
+                  "name": "Linsensuppe mit geröstetem Fladenbrot",
+                  "detail": "Linsen, Karotte, Sellerie, Zwiebel, Tomate, Kreuzkümmel",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Donnerstag",
+          "fruit": "🍌 Banane oder Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Kalte Pasta mit Pesto Genovese und Garnelen",
+                "detail": "Kurze Pasta, Pesto Genovese, gekochte Garnelen, Kirschtomaten",
+                "kcal": 470,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Pasta"
+                  ],
+                  "Vorratskammer": [
+                    "Pesto Genovese"
+                  ],
+                  "Fleisch & Fisch": [
+                    "Garnelen"
+                  ],
+                  "Gemüse": [
+                    "Kirschtomaten"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous mit Kichererbsen und geröstetem Gemüse",
+                  "detail": "Couscous, Kichererbsen, geröstete Zucchini, Frühlingszwiebeln, Kreuzkümmel",
+                  "kcal": 460
+                },
+                {
+                  "name": "Basmatireis mit Thunfisch und Kirschtomaten",
+                  "detail": "Basmatireis, Thunfisch in Öl, Kirschtomaten, Oliven, Schnittlauch",
+                  "kcal": 465
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Toskanische Wurst mit neuen Kartoffeln",
+                "detail": "Gebratene Wurst, neue Kartoffeln mit Rosmarin",
+                "kcal": 560,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Toskanische Wurst"
+                  ],
+                  "Gemüse": [
+                    "Zucchini",
+                    "Neue Kartoffeln",
+                    "Kartoffeln"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Ofengarnelen mit Rucola und Zitrone",
+                  "detail": "Garnelen, Rucola, natives Olivenöl extra, Zitrone, Petersilie, Knoblauch",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta mit Hackfleisch-Tomatensauce",
+                  "detail": "Pasta, gemischtes Hackfleisch Rind/Schwein, Passata, Karotte, Sellerie, Zwiebel",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Freitag",
+          "fruit": "🍓 Erdbeeren oder Apfel",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Kalter Dinkel mit Lachs und Kapern",
+                "detail": "Dinkel, Räucherlachs, Kapern, Frühlingszwiebeln, Zitrone",
+                "kcal": 460,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Perldinkel"
+                  ],
+                  "Fleisch & Fisch": [
+                    "Räucherlachs"
+                  ],
+                  "Gemüse": [
+                    "Frühlingszwiebeln"
+                  ],
+                  "Vorratskammer": [
+                    "Kapern"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Thunfischsalat mit Rucola und Apfelessig",
+                  "detail": "Thunfisch in Öl, Rucola, Frühlingszwiebeln, Oliven, Apfelessig",
+                  "kcal": 430
+                },
+                {
+                  "name": "Couscous mit roten Linsen und Kurkuma",
+                  "detail": "Couscous, rote Linsen, Frühlingszwiebeln, Kurkuma, Kirschtomaten",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Hähnchenbrust mit Zucchini und griechischem Kefir",
+                "detail": "Hähnchenbrust in der Pfanne, Zucchini, griechischer Kefir als Sauce",
+                "kcal": 490,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Hähnchenbrust"
+                  ],
+                  "Milchprodukte & Eier": [
+                    "Griechischer Kefir"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Kichererbsen-Rosmarin-Sauce",
+                  "detail": "Kurze Pasta, Kichererbsen, Tomate, Rosmarin, Knoblauch, natives Olivenöl extra",
+                  "kcal": 520
+                },
+                {
+                  "name": "Geschmorte Calamari mit Oliven und Tomate",
+                  "detail": "Calamari, Tomatenpassata, Oliven, Kapern, Petersilie",
+                  "kcal": 480
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Samstag",
+          "fruit": "🍓 Saisonobst",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Pasta mit Tomatensauce und Ricotta",
+                "detail": "Pasta, Tomatenpassata, frischer Ricotta, Basilikum",
+                "kcal": 520,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Pasta"
+                  ],
+                  "Milchprodukte & Eier": [
+                    "Frischer Ricotta"
+                  ],
+                  "Gemüse": [
+                    "Kirschtomaten",
+                    "Frischer Basilikum"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Basmatireis mit Kichererbsen und Kurkuma",
+                  "detail": "Basmatireis, Kichererbsen, Kurkuma, Frühlingszwiebeln, Zitrone, natives Olivenöl extra",
+                  "kcal": 490
+                },
+                {
+                  "name": "Schweineschnitzel mit Salat und Kirschtomaten",
+                  "detail": "Panierte Schnitzel aus dem Ofen, Eisbergsalat, Kirschtomaten",
+                  "kcal": 530
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Pizza Margherita",
+                "detail": "Tomatenmark, Mozzarella, Basilikum — hausgemacht",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Mehl Typ 00",
+                    "Bierhefe",
+                    "Mozzarella"
+                  ],
+                  "Vorratskammer": [
+                    "Tomatenmark"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza Lachs und Frühlingszwiebeln",
+                  "detail": "Weiße Basis, Mozzarella, Räucherlachs, Frühlingszwiebeln",
+                  "kcal": 700
+                },
+                {
+                  "name": "Pizza Wurst und Zucchini",
+                  "detail": "Tomate, Mozzarella, zerbröckelte Wurst, Zucchini",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sonntag",
+          "fruit": "🍌 Banane und Erdbeeren",
+          "meals": [
+            {
+              "label": "Mittagessen",
+              "main": {
+                "name": "Gemischtes Hackfleisch mit Zucchini und Basmatireis",
+                "detail": "Gemischtes Hackfleisch Rind/Schwein in der Pfanne, Zucchini, Tomate, Basmatireis",
+                "kcal": 580,
+                "ingredients": {
+                  "Getreide & Hülsenfrüchte": [
+                    "Basmatireis"
+                  ],
+                  "Fleisch & Fisch": [
+                    "Gemischtes Hackfleisch Rind/Schwein"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta mit Linsen-Ragout",
+                  "detail": "Pasta, Linsen, Karotte, Sellerie, Zwiebel, Tomate, Rosmarin",
+                  "kcal": 550
+                },
+                {
+                  "name": "Geschmorte Kichererbsen mit Wurst und Rosmarin",
+                  "detail": "Kichererbsen, zerbröckelte Wurst, Rosmarin, Tomate, Knoblauch",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Abendessen",
+              "main": {
+                "name": "Wolfsbarschfilet mit geschmorten Zucchini",
+                "detail": "Wolfsbarsch mit Samen, Zucchini mit Knoblauch und Petersilie geschmort",
+                "kcal": 500,
+                "ingredients": {
+                  "Fleisch & Fisch": [
+                    "Wolfsbarsch mit Samen"
+                  ],
+                  "Gemüse": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cordon bleu aus dem Ofen mit Zucchini und Salat",
+                  "detail": "AIA Cordon bleu aus dem Ofen, gebratene Zucchini, gemischter Salat",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pasta mit Garnelen und Kirschtomaten",
+                  "detail": "Pasta, Garnelen, Kirschtomaten, Knoblauch, Petersilie, natives Olivenöl extra",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

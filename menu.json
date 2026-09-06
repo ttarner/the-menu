@@ -1,0 +1,1458 @@
+{
+  "baseIngredients": {
+    "Dispensa": [
+      "Olio evo",
+      "Sale",
+      "Aglio",
+      "Prezzemolo",
+      "Limone"
+    ]
+  },
+  "weeks": [
+    {
+      "label": "Settimana A",
+      "days": [
+        {
+          "day": "Lunedì",
+          "fruit": "🍎 Mela Pink Lady",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Insalata di riso basmati con tonno",
+                "detail": "Riso basmati, tonno sott'olio, pomodorini, olive, erba cipollina",
+                "kcal": 480,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Riso basmati"
+                  ],
+                  "Dispensa": [
+                    "Tonno sott'olio",
+                    "Olive denocciolate"
+                  ],
+                  "Verdure": [
+                    "Pomodorini",
+                    "Erba cipollina"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta fredda con pesto e pomodorini",
+                  "detail": "Pasta corta, pesto genovese, pomodorini, olive denocciolate",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pane arabo con prosciutto cotto e verdure",
+                  "detail": "Pane arabo, prosciutto cotto, insalata, pomodorini",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Petto di tacchino al forno con zucchine",
+                "detail": "Petto di tacchino, zucchine saltate, rosmarino, olio evo",
+                "kcal": 520,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Petto di tacchino"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ],
+                  "Dispensa": [
+                    "Rosmarino"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Salmone al vapore con zucchine",
+                  "detail": "Filetto di salmone, zucchine trifolate al limone",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pasta al sugo di pomodoro e ricotta",
+                  "detail": "Pasta, passata di pomodoro, ricotta fresca, basilico",
+                  "kcal": 540
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Martedì",
+          "fruit": "🍓 Fragole fresche",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Farro con tonno, olive e pomodorini",
+                "detail": "Farro perlato, tonno sott'olio, olive, pomodorini, basilico",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Farro perlato"
+                  ],
+                  "Dispensa": [
+                    "Tonno sott'olio",
+                    "Olive denocciolate"
+                  ],
+                  "Verdure": [
+                    "Pomodorini",
+                    "Basilico fresco"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pane arabo con pollo arrosto e senape",
+                  "detail": "Pane arabo, pollo arrosto a fette, insalata, senape",
+                  "kcal": 440
+                },
+                {
+                  "name": "Pasta fredda con pesto di carciofi e tonno",
+                  "detail": "Pasta corta, pesto di carciofi, tonno, olive",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Petto di pollo in padella con zucchine",
+                "detail": "Fettine di pollo, zucchine, pomodorini, basilico",
+                "kcal": 510,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Petto di pollo"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Pomodorini",
+                    "Basilico fresco"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Calamari in umido con pomodoro e olive",
+                  "detail": "Calamari, passata di pomodoro, olive, capperi, prezzemolo",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta al sugo di salsiccia e zucchine",
+                  "detail": "Pasta, salsiccia toscana sbriciolata, zucchine, pomodoro",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mercoledì",
+          "fruit": "🍌 Banana",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Cous cous con lenticchie rosse e curcuma",
+                "detail": "Cous cous, lenticchie rosse, cipollotti, curcuma, limone",
+                "kcal": 440,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Cous cous",
+                    "Lenticchie rosse"
+                  ],
+                  "Verdure": [
+                    "Cipollotti"
+                  ],
+                  "Dispensa": [
+                    "Curcuma"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Insalata di tonno con rucola e olive",
+                  "detail": "Tonno sott'olio, rucola, cipollotti, olive, aceto di mele",
+                  "kcal": 430
+                },
+                {
+                  "name": "Pasta fredda con zucchine e menta",
+                  "detail": "Pasta corta, zucchine grigliate, menta, olio evo, limone",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Filetto di branzino ai semi con zucchine",
+                "detail": "Branzino ai semi, zucchine trifolate al limone",
+                "kcal": 530,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Branzino ai semi"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ],
+                  "Dispensa": [
+                    "Aceto di mele"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Gamberi saltati con zucchine e riso basmati",
+                  "detail": "Gamberi, zucchine, aglio, olio evo, riso basmati",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pasta con vongole e pomodorini",
+                  "detail": "Spaghetti, vongole, pomodorini, aglio, prezzemolo",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Giovedì",
+          "fruit": "🍓 Fragole",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Riso basmati con pollo arrosto e zucchine",
+                "detail": "Riso basmati, pollo arrosto, zucchine saltate, erba cipollina",
+                "kcal": 470,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Riso basmati"
+                  ],
+                  "Carne & Pesce": [
+                    "Pollo arrosto"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Erba cipollina"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Insalata di farro con salmone affumicato",
+                  "detail": "Farro, salmone affumicato, cipollotti, capperi, limone",
+                  "kcal": 460
+                },
+                {
+                  "name": "Cous cous con verdure grigliate e feta",
+                  "detail": "Cous cous, zucchine, carote, cipollotti, feta sbriciolata",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Tagliata di lonza con patate novelle",
+                "detail": "Lonza di suino scottata in padella, patate novelle al rosmarino",
+                "kcal": 540,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Tagliata di lonza di suino"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Patate novelle",
+                    "Patate"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Sogliola al forno con zucchine gratinate",
+                  "detail": "Sogliola grande, zucchine al forno con pangrattato e limone",
+                  "kcal": 480
+                },
+                {
+                  "name": "Zuppa di lenticchie con pane arabo tostato",
+                  "detail": "Lenticchie, carota, sedano, cipolla, pomodoro, cumino",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Venerdì",
+          "fruit": "🍌 Banana",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Cous cous freddo con gamberi e zucchine",
+                "detail": "Cous cous, gamberi lessati, zucchine, menta, limone",
+                "kcal": 450,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Cous cous"
+                  ],
+                  "Carne & Pesce": [
+                    "Gamberi"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Menta"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pane arabo con salmone affumicato e cipollotti",
+                  "detail": "Pane arabo, salmone affumicato, cipollotti, olio evo",
+                  "kcal": 440
+                },
+                {
+                  "name": "Farro freddo con tonno e carote",
+                  "detail": "Farro, tonno, carote, olive, prezzemolo",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Frittata di zucchine al forno con insalata",
+                "detail": "Frittata di 3 uova con zucchine e erbe aromatiche, cotta al forno, insalata condita",
+                "kcal": 420,
+                "ingredients": {
+                  "Latticini & Uova": [
+                    "Uova"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Insalata iceberg",
+                    "Insalata mista"
+                  ],
+                  "Dispensa": [
+                    "Erbe aromatiche",
+                    "Olio evo"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Uova al tegamino con pomodoro e pane integrale",
+                  "detail": "Uova al tegamino su letto di pomodoro saltato, pane integrale tostato",
+                  "kcal": 380
+                },
+                {
+                  "name": "Cordon bleu al forno con kefir greco e insalata",
+                  "detail": "Cordon bleu AIA al forno, kefir greco come salsa, insalata",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sabato",
+          "fruit": "🍎 Mele Pink Lady",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Cotolette di suino con zucchine al forno",
+                "detail": "Cotolette impanate al forno, zucchine gratinate e patate novelle",
+                "kcal": 540,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Cotolette di suino impanate"
+                  ],
+                  "Verdure": [
+                    "Rucola",
+                    "Zucchine",
+                    "Patate novelle",
+                    "Patate"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al sugo di pomodoro fresco e basilico",
+                  "detail": "Pasta, pomodorini freschi, basilico, aglio, olio evo",
+                  "kcal": 490
+                },
+                {
+                  "name": "Farro con ceci, carote e olive",
+                  "detail": "Farro, ceci, carote, olive, prezzemolo, limone",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pizza margherita",
+                "detail": "Pomodoro concentrato, mozzarella, basilico — fatta in casa",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Farina 00",
+                    "Lievito di birra",
+                    "Mozzarella"
+                  ],
+                  "Dispensa": [
+                    "Pomodoro concentrato"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza prosciutto e funghi",
+                  "detail": "Pomodoro, mozzarella, prosciutto cotto, funghi",
+                  "kcal": 720
+                },
+                {
+                  "name": "Pizza salsiccia e zucchine",
+                  "detail": "Pomodoro, mozzarella, salsiccia sbriciolata, zucchine",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Domenica",
+          "fruit": "🍓 Fragole o frutta di stagione",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Salsiccia toscana con zucchine e patate novelle",
+                "detail": "Salsiccia arrostita, zucchine, patate novelle croccanti",
+                "kcal": 620,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Salsiccia toscana"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Patate",
+                    "Patate novelle"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al ragù di macinato misto",
+                  "detail": "Pasta, macinato bov/suino, carota, sedano, cipolla, pomodoro",
+                  "kcal": 590
+                },
+                {
+                  "name": "Ceci in umido con pomodoro e rosmarino",
+                  "detail": "Ceci, passata di pomodoro, rosmarino, aglio, olio evo, pane arabo",
+                  "kcal": 540
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Valdostana con insalata mista",
+                "detail": "Valdostana di pollo leggera, insalata di stagione",
+                "kcal": 500,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Valdostana di pollo"
+                  ],
+                  "Verdure": [
+                    "Insalata mista"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Sogliola al limone con zucchine trifolate",
+                  "detail": "Sogliola grande al forno, zucchine trifolate con aglio e prezzemolo",
+                  "kcal": 470
+                },
+                {
+                  "name": "Macinato di suino con zucchine e riso basmati",
+                  "detail": "Trita di suino in padella con zucchine, pomodoro, riso basmati",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Settimana B",
+      "days": [
+        {
+          "day": "Lunedì",
+          "fruit": "🍓 Fragole o ciliegie",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Pasta fredda con tonno, carciofi e olive",
+                "detail": "Pasta corta, tonno, pesto di carciofi, olive denocciolate",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Pasta"
+                  ],
+                  "Dispensa": [
+                    "Tonno sott'olio",
+                    "Pesto di carciofi",
+                    "Olive denocciolate"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cous cous con verdure grigliate e feta",
+                  "detail": "Cous cous, zucchine, carote, cipollotti, feta sbriciolata",
+                  "kcal": 450
+                },
+                {
+                  "name": "Riso basmati con salmone affumicato e cipollotti",
+                  "detail": "Riso basmati, salmone affumicato, cipollotti, limone",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Cordon bleu al forno con insalata di rucola",
+                "detail": "Cordon bleu al forno, rucola e ravanelli con limone e olio evo",
+                "kcal": 490,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Cordon bleu AIA"
+                  ],
+                  "Verdure": [
+                    "Rucola",
+                    "Ravanelli"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al sugo di pomodoro con basilico e olive",
+                  "detail": "Pasta, passata di pomodoro, olive, basilico, olio evo",
+                  "kcal": 500
+                },
+                {
+                  "name": "Petto di pollo con zucchine e pomodorini",
+                  "detail": "Petto di pollo in padella, zucchine, pomodorini, basilico",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Martedì",
+          "fruit": "🍌 Banana",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Farro freddo con lenticchie e verdure",
+                "detail": "Farro, lenticchie rosse, carote, cipollotti, curcuma, limone",
+                "kcal": 455,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Farro perlato",
+                    "Lenticchie rosse"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Cipollotti",
+                    "Carote"
+                  ],
+                  "Dispensa": [
+                    "Curcuma"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pane arabo con tonno e verdure miste",
+                  "detail": "Pane arabo, tonno sott'olio, pomodorini, insalata, olive",
+                  "kcal": 430
+                },
+                {
+                  "name": "Insalata di riso basmati con pollo e carote",
+                  "detail": "Riso basmati, pollo arrosto, carote, olive",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Tagliata di lonza con rucola e ravanelli",
+                "detail": "Lonza di suino scottata, rucola e ravanelli con aceto di mele",
+                "kcal": 530,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Tagliata di lonza di suino"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Rucola",
+                    "Ravanelli"
+                  ],
+                  "Dispensa": [
+                    "Aceto di mele"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con vongole e zucchine",
+                  "detail": "Spaghetti, vongole, zucchine, aglio, prezzemolo, olio evo",
+                  "kcal": 510
+                },
+                {
+                  "name": "Zuppa di ceci e pomodoro con pane arabo",
+                  "detail": "Ceci, pomodoro, rosmarino, aglio, olio evo, pane arabo tostato",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mercoledì",
+          "fruit": "🍎 Mela Pink Lady",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Pane arabo con prosciutto cotto e rucola",
+                "detail": "Pane arabo, prosciutto cotto a.q., rucola, senape",
+                "kcal": 420,
+                "ingredients": {
+                  "Dispensa": [
+                    "Pane arabo"
+                  ],
+                  "Carne & Pesce": [
+                    "Prosciutto cotto"
+                  ],
+                  "Verdure": [
+                    "Rucola"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cous cous con gamberi e menta",
+                  "detail": "Cous cous, gamberi lessati, menta, limone, olio evo",
+                  "kcal": 450
+                },
+                {
+                  "name": "Pasta fredda pesto genovese e pomodorini",
+                  "detail": "Pasta corta, pesto genovese, pomodorini, olive",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Frittata di zucchine e patate",
+                "detail": "Frittata di 3 uova con zucchine e patate saltate, erbe a piacere",
+                "kcal": 460,
+                "ingredients": {
+                  "Latticini & Uova": [
+                    "Uova"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Patate"
+                  ],
+                  "Dispensa": [
+                    "Olio evo"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Frittata di zucchine con insalata",
+                  "detail": "Frittata di 2-3 uova con zucchine, insalata mista condita",
+                  "kcal": 390
+                },
+                {
+                  "name": "Cordon bleu al forno con zucchine saltate",
+                  "detail": "Cordon bleu AIA al forno, zucchine saltate in padella",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Giovedì",
+          "fruit": "🍓 Fragole fresche",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Farro con tonno, olive e pomodorini",
+                "detail": "Farro perlato, tonno sott'olio, olive, pomodorini, basilico",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Farro perlato"
+                  ],
+                  "Dispensa": [
+                    "Tonno sott'olio",
+                    "Olive denocciolate"
+                  ],
+                  "Verdure": [
+                    "Pomodorini",
+                    "Basilico fresco"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Riso basmati con lenticchie rosse e curcuma",
+                  "detail": "Riso basmati, lenticchie rosse, cipollotti, curcuma, limone",
+                  "kcal": 450
+                },
+                {
+                  "name": "Cous cous freddo con verdure e feta",
+                  "detail": "Cous cous, zucchine, carote, feta sbriciolata, olive",
+                  "kcal": 445
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Petto di tacchino con zucchine",
+                "detail": "Petto di tacchino al forno, zucchine trifolate all'aglio",
+                "kcal": 500,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Petto di tacchino"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Calamari ripieni al pomodoro",
+                  "detail": "Calamari, pangrattato, prezzemolo, aglio, passata di pomodoro",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pasta al sugo di macinato e pomodoro",
+                  "detail": "Pasta, macinato bov/suino, passata, carota, sedano, cipolla",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Venerdì",
+          "fruit": "🍌 Banana o fragole",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Insalata di farro con salmone e capperi",
+                "detail": "Farro, salmone affumicato, capperi, cipollotti, limone",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Farro perlato"
+                  ],
+                  "Carne & Pesce": [
+                    "Salmone affumicato"
+                  ],
+                  "Verdure": [
+                    "Cipollotti"
+                  ],
+                  "Dispensa": [
+                    "Capperi"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta fredda con zucchine e menta",
+                  "detail": "Pasta corta, zucchine grigliate, menta, olio evo, limone",
+                  "kcal": 440
+                },
+                {
+                  "name": "Pane arabo con pollo e verdure grigliate",
+                  "detail": "Pane arabo, pollo arrosto, zucchine grigliate",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Cotolette di suino con insalata mista",
+                "detail": "Cotolette impanate al forno, insalata iceberg condita",
+                "kcal": 530,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Cotolette di suino impanate"
+                  ],
+                  "Verdure": [
+                    "Insalata iceberg",
+                    "Insalata mista"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al sugo di ceci e rosmarino",
+                  "detail": "Pasta corta, ceci, pomodoro, rosmarino, aglio, olio evo",
+                  "kcal": 520
+                },
+                {
+                  "name": "Sogliola al forno con zucchine trifolate",
+                  "detail": "Sogliola grande al forno, zucchine trifolate con aglio e prezzemolo",
+                  "kcal": 470
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sabato",
+          "fruit": "🍎 Mele o fragole",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Riso basmati con gamberi e zucchine",
+                "detail": "Riso basmati, gamberi saltati, zucchine, aglio, olio evo",
+                "kcal": 490,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Riso basmati"
+                  ],
+                  "Carne & Pesce": [
+                    "Gamberi"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al sugo di pomodoro fresco e basilico",
+                  "detail": "Pasta, pomodorini freschi, basilico, aglio, olio evo",
+                  "kcal": 490
+                },
+                {
+                  "name": "Cous cous con ceci e verdure arrosto",
+                  "detail": "Cous cous, ceci, carote, cipollotti, cumino",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pizza margherita",
+                "detail": "Pomodoro concentrato, mozzarella, basilico — fatta in casa",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Farina 00",
+                    "Lievito di birra",
+                    "Mozzarella"
+                  ],
+                  "Dispensa": [
+                    "Pomodoro concentrato"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza prosciutto e zucchine",
+                  "detail": "Pomodoro, mozzarella, prosciutto cotto, zucchine grigliate",
+                  "kcal": 700
+                },
+                {
+                  "name": "Pizza tonno e cipolla",
+                  "detail": "Pomodoro, mozzarella, tonno, cipollotti",
+                  "kcal": 710
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Domenica",
+          "fruit": "🍓 Frutta di stagione",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Macinato di suino con zucchine e patate novelle",
+                "detail": "Trita di suino, zucchine, patate novelle, pomodoro, rosmarino",
+                "kcal": 600,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Macinato bov/suino"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Patate",
+                    "Patate novelle"
+                  ],
+                  "Dispensa": [
+                    "Rosmarino"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al ragù di lenticchie",
+                  "detail": "Pasta, lenticchie, carota, sedano, cipolla, pomodoro, rosmarino",
+                  "kcal": 550
+                },
+                {
+                  "name": "Salsiccia toscana con patate novelle",
+                  "detail": "Salsiccia arrostita, patate novelle al rosmarino",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Petto di pollo in padella con zucchine",
+                "detail": "Petto di pollo, zucchine trifolate, aglio, olio evo",
+                "kcal": 490,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Petto di pollo"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Filetto di branzino con zucchine al forno",
+                  "detail": "Branzino ai semi, zucchine al forno con limone e olio evo",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta con vongole e pomodorini",
+                  "detail": "Spaghetti, vongole, pomodorini, aglio, prezzemolo",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Settimana C",
+      "days": [
+        {
+          "day": "Lunedì",
+          "fruit": "🍌 Banana o fragole",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Cous cous con lenticchie e pomodorini",
+                "detail": "Cous cous, lenticchie rosse, pomodorini, prezzemolo, limone",
+                "kcal": 440,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Cous cous",
+                    "Lenticchie rosse"
+                  ],
+                  "Verdure": [
+                    "Pomodorini",
+                    "Cipollotti"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pane arabo con salmone affumicato e cipollotti",
+                  "detail": "Pane arabo, salmone affumicato, cipollotti, olio evo",
+                  "kcal": 440
+                },
+                {
+                  "name": "Insalata di riso basmati con gamberi e zucchine",
+                  "detail": "Riso basmati, gamberi lessati, zucchine, menta, limone",
+                  "kcal": 460
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Valdostana al forno con insalata mista",
+                "detail": "Valdostana di pollo leggera, insalata mista condita",
+                "kcal": 510,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Valdostana di pollo"
+                  ],
+                  "Verdure": [
+                    "Insalata mista"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al sugo di calamari e pomodoro",
+                  "detail": "Pasta, calamari, passata di pomodoro, olive, prezzemolo",
+                  "kcal": 520
+                },
+                {
+                  "name": "Tagliata di lonza con rucola e ravanelli",
+                  "detail": "Lonza di suino scottata, rucola e ravanelli con olio evo",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Martedì",
+          "fruit": "🍓 Fragole fresche",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Pasta fredda con pesto di carciofi e tonno",
+                "detail": "Pasta corta, pesto di carciofi, tonno, olive, pomodorini",
+                "kcal": 455,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Pasta"
+                  ],
+                  "Dispensa": [
+                    "Pesto di carciofi",
+                    "Tonno sott'olio",
+                    "Olive denocciolate"
+                  ],
+                  "Verdure": [
+                    "Pomodorini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Farro con pollo arrosto e verdure",
+                  "detail": "Farro, pollo arrosto, zucchine, cipollotti, olio evo",
+                  "kcal": 465
+                },
+                {
+                  "name": "Riso basmati con lenticchie e curcuma",
+                  "detail": "Riso basmati, lenticchie rosse, curcuma, cipollotti, limone",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Petto di tacchino in padella con zucchine",
+                "detail": "Petto di tacchino, zucchine trifolate, aglio, prezzemolo",
+                "kcal": 500,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Petto di tacchino"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Sogliola al forno con zucchine",
+                  "detail": "Sogliola grande al forno, zucchine trifolate",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pasta al sugo di pomodoro con olive e capperi",
+                  "detail": "Pasta, passata di pomodoro, olive, capperi, origano",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mercoledì",
+          "fruit": "🍎 Mele Pink Lady",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Insalata di farro con tonno e pomodorini",
+                "detail": "Farro, tonno sott'olio, pomodorini, olive, basilico",
+                "kcal": 455,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Farro perlato"
+                  ],
+                  "Dispensa": [
+                    "Tonno sott'olio",
+                    "Olive denocciolate"
+                  ],
+                  "Verdure": [
+                    "Pomodorini",
+                    "Basilico fresco"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cous cous con gamberi, zucchine e menta",
+                  "detail": "Cous cous, gamberi lessati, zucchine, menta, limone",
+                  "kcal": 450
+                },
+                {
+                  "name": "Pane arabo con prosciutto cotto e rucola",
+                  "detail": "Pane arabo, prosciutto cotto a.q., rucola, pomodorini",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Cordon bleu con rucola e ravanelli",
+                "detail": "Cordon bleu al forno, rucola e ravanelli con olive",
+                "kcal": 520,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Cordon bleu AIA"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Rucola",
+                    "Ravanelli"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con vongole e zucchine",
+                  "detail": "Spaghetti, vongole, zucchine, aglio, prezzemolo, olio evo",
+                  "kcal": 510
+                },
+                {
+                  "name": "Zuppa di lenticchie con pane arabo tostato",
+                  "detail": "Lenticchie, carota, sedano, cipolla, pomodoro, cumino",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Giovedì",
+          "fruit": "🍌 Banana o fragole",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Pasta fredda con pesto genovese e gamberi",
+                "detail": "Pasta corta, pesto genovese, gamberi lessati, pomodorini",
+                "kcal": 470,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Pasta"
+                  ],
+                  "Dispensa": [
+                    "Pesto genovese"
+                  ],
+                  "Carne & Pesce": [
+                    "Gamberi"
+                  ],
+                  "Verdure": [
+                    "Pomodorini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cous cous con ceci e verdure arrosto",
+                  "detail": "Cous cous, ceci, carote, cipollotti, cumino",
+                  "kcal": 460
+                },
+                {
+                  "name": "Riso basmati con tonno e pomodorini",
+                  "detail": "Riso basmati, tonno sott'olio, pomodorini, olive, erba cipollina",
+                  "kcal": 465
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Salsiccia toscana con patate novelle",
+                "detail": "Salsiccia arrostita, patate novelle al rosmarino",
+                "kcal": 560,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Salsiccia toscana"
+                  ],
+                  "Verdure": [
+                    "Zucchine",
+                    "Patate novelle",
+                    "Patate"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Gamberi al forno con zucchine e limone",
+                  "detail": "Gamberi, zucchine, olio evo, limone, prezzemolo, aglio",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta al sugo di macinato e pomodoro",
+                  "detail": "Pasta, macinato bov/suino, passata, carota, sedano, cipolla",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Venerdì",
+          "fruit": "🍓 Fragole o mela",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Farro freddo con salmone e capperi",
+                "detail": "Farro, salmone affumicato, capperi, cipollotti, limone",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Farro perlato"
+                  ],
+                  "Carne & Pesce": [
+                    "Salmone affumicato"
+                  ],
+                  "Verdure": [
+                    "Cipollotti"
+                  ],
+                  "Dispensa": [
+                    "Capperi"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Insalata di tonno con rucola e aceto di mele",
+                  "detail": "Tonno sott'olio, rucola, cipollotti, olive, aceto di mele",
+                  "kcal": 430
+                },
+                {
+                  "name": "Cous cous con lenticchie rosse e curcuma",
+                  "detail": "Cous cous, lenticchie rosse, cipollotti, curcuma, pomodorini",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Petto di pollo con zucchine e kefir greco",
+                "detail": "Petto di pollo in padella, zucchine, kefir greco come salsa",
+                "kcal": 490,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Petto di pollo"
+                  ],
+                  "Latticini & Uova": [
+                    "Kefir greco"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al sugo di ceci e rosmarino",
+                  "detail": "Pasta corta, ceci, pomodoro, rosmarino, aglio, olio evo",
+                  "kcal": 520
+                },
+                {
+                  "name": "Calamari in umido con olive e pomodoro",
+                  "detail": "Calamari, passata di pomodoro, olive, capperi, prezzemolo",
+                  "kcal": 480
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sabato",
+          "fruit": "🍓 Frutta di stagione",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Pasta al sugo di pomodoro e ricotta",
+                "detail": "Pasta, passata di pomodoro, ricotta fresca, basilico",
+                "kcal": 520,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Pasta"
+                  ],
+                  "Latticini & Uova": [
+                    "Ricotta fresca"
+                  ],
+                  "Verdure": [
+                    "Pomodorini",
+                    "Basilico fresco"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Riso basmati con ceci e curcuma",
+                  "detail": "Riso basmati, ceci, curcuma, cipollotti, limone, olio evo",
+                  "kcal": 490
+                },
+                {
+                  "name": "Cotolette di suino con insalata e pomodorini",
+                  "detail": "Cotolette impanate al forno, insalata iceberg, pomodorini",
+                  "kcal": 530
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pizza margherita",
+                "detail": "Pomodoro concentrato, mozzarella, basilico — fatta in casa",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Farina 00",
+                    "Lievito di birra",
+                    "Mozzarella"
+                  ],
+                  "Dispensa": [
+                    "Pomodoro concentrato"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza salmone e cipollotti",
+                  "detail": "Base bianca, mozzarella, salmone affumicato, cipollotti",
+                  "kcal": 700
+                },
+                {
+                  "name": "Pizza salsiccia e zucchine",
+                  "detail": "Pomodoro, mozzarella, salsiccia sbriciolata, zucchine",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Domenica",
+          "fruit": "🍌 Banana e fragole",
+          "meals": [
+            {
+              "label": "Pranzo",
+              "main": {
+                "name": "Macinato misto con zucchine e riso basmati",
+                "detail": "Trita bov/suino in padella, zucchine, pomodoro, riso basmati",
+                "kcal": 580,
+                "ingredients": {
+                  "Cereali & Legumi": [
+                    "Riso basmati"
+                  ],
+                  "Carne & Pesce": [
+                    "Macinato bov/suino"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta al ragù di lenticchie",
+                  "detail": "Pasta, lenticchie, carota, sedano, cipolla, pomodoro, rosmarino",
+                  "kcal": 550
+                },
+                {
+                  "name": "Ceci in umido con salsiccia e rosmarino",
+                  "detail": "Ceci, salsiccia sbriciolata, rosmarino, pomodoro, aglio",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Filetto di branzino con zucchine trifolate",
+                "detail": "Branzino ai semi, zucchine trifolate con aglio e prezzemolo",
+                "kcal": 500,
+                "ingredients": {
+                  "Carne & Pesce": [
+                    "Branzino ai semi"
+                  ],
+                  "Verdure": [
+                    "Zucchine"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cordon bleu al forno con zucchine e insalata",
+                  "detail": "Cordon bleu AIA al forno, zucchine saltate, insalata mista",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pasta con gamberi e pomodorini",
+                  "detail": "Pasta, gamberi, pomodorini, aglio, prezzemolo, olio evo",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

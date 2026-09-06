@@ -1,0 +1,1452 @@
+{
+  "baseIngredients": {
+    "Despensa": [
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Ajo",
+      "Perejil",
+      "Limón"
+    ]
+  },
+  "weeks": [
+    {
+      "label": "Semana A",
+      "days": [
+        {
+          "day": "Lunes",
+          "fruit": "🍎 Manzana Pink Lady",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Ensalada de arroz basmati con atún",
+                "detail": "Arroz basmati, atún en aceite, tomates cherry, aceitunas, cebollino",
+                "kcal": 480,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Arroz basmati"
+                  ],
+                  "Despensa": [
+                    "Atún en aceite",
+                    "Aceitunas deshuesadas"
+                  ],
+                  "Verduras": [
+                    "Tomates cherry",
+                    "Cebollino",
+                    "Ensalada mixta"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta fría con pesto y tomates cherry",
+                  "detail": "Pasta corta, pesto genovés, tomates cherry, aceitunas deshuesadas",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pan árabe con jamón cocido y verduras",
+                  "detail": "Pan árabe, jamón cocido, ensalada, tomates cherry",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pechuga de pavo al horno con calabacines",
+                "detail": "Pechuga de pavo, calabacines salteados, romero, aceite de oliva virgen extra",
+                "kcal": 520,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Pechuga de pavo"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ],
+                  "Despensa": [
+                    "Romero"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Salmón al vapor con calabacines",
+                  "detail": "Filete de salmón, calabacines estofada con vinagre de manzana",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pasta con salsa de tomate y ricota",
+                  "detail": "Pasta, salsa de tomate, ricota fresca, albahaca",
+                  "kcal": 540
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Martes",
+          "fruit": "🍓 Fresas frescas",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Farro con atún, aceitunas y tomates cherry",
+                "detail": "Farro perlado, atún en aceite, aceitunas, tomates cherry, albahaca",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Farro perlado"
+                  ],
+                  "Despensa": [
+                    "Atún en aceite",
+                    "Aceitunas deshuesadas"
+                  ],
+                  "Verduras": [
+                    "Tomates cherry",
+                    "Albahaca fresca"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pan árabe con pollo asado y mostaza",
+                  "detail": "Pan árabe, pollo asado en lonchas, ensalada, mostaza",
+                  "kcal": 440
+                },
+                {
+                  "name": "Pasta fría con pesto de alcachofas y atún",
+                  "detail": "Pasta corta, pesto de alcachofas, atún, aceitunas",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pechuga de pollo a la sartén con calabacines",
+                "detail": "Filetes de pollo, calabacines, tomates cherry, albahaca",
+                "kcal": 510,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Pechuga de pollo"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Tomates cherry",
+                    "Albahaca fresca"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Calamares guisados con tomate y aceitunas",
+                  "detail": "Calamares, salsa de tomate, aceitunas, alcaparras, perejil",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta con salsa de salchicha y calabacines",
+                  "detail": "Pasta, salchicha toscana desmenuzada, calabacines, tomate",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Miércalabacineses",
+          "fruit": "🍌 Plátano",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Cuscús con lentejas rojas y cúrcuma",
+                "detail": "Cuscús, lentejas rojas, cebolletas, cúrcuma, limón",
+                "kcal": 440,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Cuscús",
+                    "Lentejas rojas"
+                  ],
+                  "Verduras": [
+                    "Cebolletas"
+                  ],
+                  "Despensa": [
+                    "Cúrcuma"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Ensalada de atún con rúcula y aceitunas",
+                  "detail": "Atún en aceite, rúcula, cebolletas, aceitunas, vinagre de manzana",
+                  "kcal": 430
+                },
+                {
+                  "name": "Pasta fría con calabacines y menta",
+                  "detail": "Pasta corta, calabacines a la plancha, menta, aceite de oliva virgen extra, limón",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Filete de lubina con semillas y calabacines",
+                "detail": "Lubina con semillas, calabacines estofada con vinagre de manzana",
+                "kcal": 530,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Lubina con semillas"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ],
+                  "Despensa": [
+                    "Vinagre de manzana"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Gambas salteadas con calabacines y arroz basmati",
+                  "detail": "Gambas, calabacines, ajo, aceite de oliva virgen extra, arroz basmati",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pasta con almejas y tomates cherry",
+                  "detail": "Espaguetis, almejas, tomates cherry, ajo, perejil",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Jueves",
+          "fruit": "🍓 Fresas",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Arroz basmati con pollo asado y calabacines",
+                "detail": "Arroz basmati, pollo asado, calabacines salteados, cebollino",
+                "kcal": 470,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Arroz basmati"
+                  ],
+                  "Carne & Pescado": [
+                    "Pollo asado"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Cebollino"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Ensalada de farro con salmón ahumado",
+                  "detail": "Farro, salmón ahumado, cebolletas, alcaparras, limón",
+                  "kcal": 460
+                },
+                {
+                  "name": "Cuscús con verduras a la plancha y feta",
+                  "detail": "Cuscús, calabacines, calabacines, cebolletas, feta desmenuzado",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Lomo de cerdo en lonchas con calabacines",
+                "detail": "Lomo de cerdo a la plancha, calabacines al ajillo",
+                "kcal": 540,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Lomo de cerdo en lonchas"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Lenguado al horno con calabacines gratinados",
+                  "detail": "Lenguado grande, calabacines al horno con pan rallado y limón",
+                  "kcal": 480
+                },
+                {
+                  "name": "Sopa de lentejas con pan árabe tostado",
+                  "detail": "Lentejas, zanahoria, apio, cebolla, tomate, comino",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Viernes",
+          "fruit": "🍌 Plátano",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Cuscús frío con gambas y calabacines",
+                "detail": "Cuscús, gambas hervidas, calabacines, menta, limón",
+                "kcal": 450,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Cuscús"
+                  ],
+                  "Carne & Pescado": [
+                    "Gambas"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Menta"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pan árabe con salmón ahumado y cebolletas",
+                  "detail": "Pan árabe, salmón ahumado, cebolletas, aceite de oliva virgen extra",
+                  "kcal": 440
+                },
+                {
+                  "name": "Farro frío con atún y calabacines",
+                  "detail": "Farro, atún, calabacines asados, aceitunas, perejil",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Tortilla de calabacines al horno con ensalada",
+                "detail": "Tortilla de 3 huevos con calabacines y hierbas aromáticas, al horno, ensalada aliñada",
+                "kcal": 420,
+                "ingredients": {
+                  "Lácteos & Huevos": [
+                    "Huevos"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Lechuga iceberg",
+                    "Ensalada mixta"
+                  ],
+                  "Despensa": [
+                    "Hierbas aromáticas",
+                    "Aceite de oliva virgen extra"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Huevos fritos con tomate y pan integral",
+                  "detail": "Huevos fritos sobre tomate salteado, pan integral tostado",
+                  "kcal": 380
+                },
+                {
+                  "name": "Cordon bleu al horno con kéfir griego y ensalada",
+                  "detail": "Cordon bleu AIA al horno, kéfir griego como salsa, ensalada",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sábado",
+          "fruit": "🍎 Manzanas Pink Lady",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Chuletas de cerdo empanadas con calabacines al horno",
+                "detail": "Chuletas empanadas al horno, calabacines gratinados y patatas nuevas",
+                "kcal": 540,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Chuletas de cerdo empanadas"
+                  ],
+                  "Verduras": [
+                    "Rúcula",
+                    "Calabacines",
+                    "Patatas nuevas",
+                    "Patatas"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con salsa de tomate fresco y albahaca",
+                  "detail": "Pasta, tomates cherry frescos, albahaca, ajo, aceite de oliva virgen extra",
+                  "kcal": 490
+                },
+                {
+                  "name": "Farro con garbanzos, calabacines y aceitunas",
+                  "detail": "Farro, garbanzos, calabacines asados, aceitunas, perejil, limón",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pizza margarita",
+                "detail": "Tomate concentrado, mozzarella, albahaca — hecha en casa",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Harina 00",
+                    "Levadura de cerveza",
+                    "Mozzarella"
+                  ],
+                  "Despensa": [
+                    "Tomate concentrado"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza jamón y champiñones",
+                  "detail": "Tomate, mozzarella, jamón cocido, champiñones",
+                  "kcal": 720
+                },
+                {
+                  "name": "Pizza salchicha y calabacines",
+                  "detail": "Tomate, mozzarella, salchicha desmenuzada, calabacines",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Domingo",
+          "fruit": "🍓 Fresas o fruta de temporada",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Salchicha toscana con calabacines y patatas",
+                "detail": "Salchicha asada, calabacines, patatas crujientes",
+                "kcal": 620,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Salchicha toscana"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Patatas"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con ragú de carne picada mixta",
+                  "detail": "Pasta, carne picada ternera/cerdo, zanahoria, apio, cebolla, tomate",
+                  "kcal": 590
+                },
+                {
+                  "name": "Garbanzos guisados con tomate y romero",
+                  "detail": "Garbanzos, salsa de tomate, romero, ajo, aceite de oliva virgen extra, pan árabe",
+                  "kcal": 540
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Milanesa de pollo con ensalada mixta",
+                "detail": "Milanesa de pollo ligera, ensalada de temporada",
+                "kcal": 500,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Milanesa de pollo"
+                  ],
+                  "Verduras": [
+                    "Ensalada mixta"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Lenguado al limón con calabacines salteados",
+                  "detail": "Lenguado grande al horno, calabacines salteados con ajo y perejil",
+                  "kcal": 470
+                },
+                {
+                  "name": "Carne picada de cerdo con calabacines y arroz basmati",
+                  "detail": "Carne picada de cerdo a la sartén con calabacines, tomate, arroz basmati",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Semana B",
+      "days": [
+        {
+          "day": "Lunes",
+          "fruit": "🍓 Fresas o cerezas",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Pasta fría con atún, alcachofas y aceitunas",
+                "detail": "Pasta corta, atún, pesto de alcachofas, aceitunas deshuesadas",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Pasta"
+                  ],
+                  "Despensa": [
+                    "Atún en aceite",
+                    "Pesto de alcachofas",
+                    "Aceitunas deshuesadas"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cuscús con verduras a la plancha y feta",
+                  "detail": "Cuscús, calabacines, calabacines, cebolletas, feta desmenuzado",
+                  "kcal": 450
+                },
+                {
+                  "name": "Arroz basmati con salmón ahumado y cebolletas",
+                  "detail": "Arroz basmati, salmón ahumado, cebolletas, limón",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Cordon bleu al horno con ensalada de rúcula",
+                "detail": "Cordon bleu al horno, rúcula cruda con limón y aceite de oliva virgen extra",
+                "kcal": 490,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Cordon bleu AIA"
+                  ],
+                  "Verduras": [
+                    "Rúcula",
+                    "Ensalada mixta"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con salsa de tomate, albahaca y aceitunas",
+                  "detail": "Pasta, salsa de tomate, aceitunas, albahaca, aceite de oliva virgen extra",
+                  "kcal": 500
+                },
+                {
+                  "name": "Pechuga de pollo con calabacines y tomates cherry",
+                  "detail": "Pechuga de pollo a la sartén, calabacines, tomates cherry, albahaca",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Martes",
+          "fruit": "🍌 Plátano",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Farro frío con lentejas y verduras",
+                "detail": "Farro, lentejas rojas, calabacines, cebolletas, cúrcuma, limón",
+                "kcal": 455,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Farro perlado",
+                    "Lentejas rojas"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Cebolletas"
+                  ],
+                  "Despensa": [
+                    "Cúrcuma"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pan árabe con atún y verduras variadas",
+                  "detail": "Pan árabe, atún en aceite, tomates cherry, ensalada, aceitunas",
+                  "kcal": 430
+                },
+                {
+                  "name": "Ensalada de arroz basmati con pollo y calabacines",
+                  "detail": "Arroz basmati, pollo asado, calabacines asados, aceitunas",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Lomo de cerdo en lonchas con calabacines",
+                "detail": "Lomo de cerdo a la plancha, calabacines estofada con vinagre de manzana",
+                "kcal": 530,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Lomo de cerdo en lonchas"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ],
+                  "Despensa": [
+                    "Vinagre de manzana"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con almejas y calabacines",
+                  "detail": "Espaguetis, almejas, calabacines, ajo, perejil, aceite de oliva virgen extra",
+                  "kcal": 510
+                },
+                {
+                  "name": "Sopa de garbanzos y tomate con pan árabe",
+                  "detail": "Garbanzos, tomate, romero, ajo, aceite de oliva virgen extra, pan árabe tostado",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Miércalabacineses",
+          "fruit": "🍎 Manzana Pink Lady",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Pan árabe con jamón cocido y rúcula",
+                "detail": "Pan árabe, jamón cocido de calidad, rúcula cruda, mostaza",
+                "kcal": 420,
+                "ingredients": {
+                  "Despensa": [
+                    "Pan árabe"
+                  ],
+                  "Carne & Pescado": [
+                    "Jamón cocido"
+                  ],
+                  "Verduras": [
+                    "Rúcula"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cuscús con gambas y menta",
+                  "detail": "Cuscús, gambas hervidas, menta, limón, aceite de oliva virgen extra",
+                  "kcal": 450
+                },
+                {
+                  "name": "Pasta fría con pesto genovés y tomates cherry",
+                  "detail": "Pasta corta, pesto genovés, tomates cherry, aceitunas",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Tortilla de calabacines y patatas",
+                "detail": "Tortilla de 3 huevos con calabacines y patatas salteadas, hierbas al gusto",
+                "kcal": 460,
+                "ingredients": {
+                  "Lácteos & Huevos": [
+                    "Huevos"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Patatas"
+                  ],
+                  "Despensa": [
+                    "Aceite de oliva virgen extra"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Tortilla de calabacines con ensalada",
+                  "detail": "Tortilla de 2-3 huevos con calabacines, ensalada mixta aliñada",
+                  "kcal": 390
+                },
+                {
+                  "name": "Cordon bleu al horno con calabacines salteados",
+                  "detail": "Cordon bleu AIA al horno, calabacines salteados a la sartén",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Jueves",
+          "fruit": "🍓 Fresas frescas",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Farro con atún, aceitunas y tomates cherry",
+                "detail": "Farro perlado, atún en aceite, aceitunas, tomates cherry, albahaca",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Farro perlado"
+                  ],
+                  "Despensa": [
+                    "Atún en aceite",
+                    "Aceitunas deshuesadas"
+                  ],
+                  "Verduras": [
+                    "Tomates cherry",
+                    "Albahaca fresca"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Arroz basmati con lentejas rojas y cúrcuma",
+                  "detail": "Arroz basmati, lentejas rojas, cebolletas, cúrcuma, limón",
+                  "kcal": 450
+                },
+                {
+                  "name": "Cuscús frío con verduras y feta",
+                  "detail": "Cuscús, calabacines, calabacines, feta desmenuzado, aceitunas",
+                  "kcal": 445
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pechuga de pavo con calabacines",
+                "detail": "Pechuga de pavo al horno, calabacines salteados al ajillo",
+                "kcal": 500,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Pechuga de pavo"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Calamares rellenos al tomate",
+                  "detail": "Calamares, pan rallado, perejil, ajo, salsa de tomate",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pasta con salsa de carne picada y tomate",
+                  "detail": "Pasta, carne picada ternera/cerdo, salsa de tomate, zanahoria, apio, cebolla",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Viernes",
+          "fruit": "🍌 Plátano o nadorcott",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Ensalada de farro con salmón y alcaparras",
+                "detail": "Farro, salmón ahumado, alcaparras, cebolletas, limón",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Farro perlado"
+                  ],
+                  "Carne & Pescado": [
+                    "Salmón ahumado"
+                  ],
+                  "Verduras": [
+                    "Cebolletas",
+                    "Ensalada mixta"
+                  ],
+                  "Despensa": [
+                    "Alcaparras"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta fría con calabacines y menta",
+                  "detail": "Pasta corta, calabacines a la plancha, menta, aceite de oliva virgen extra, limón",
+                  "kcal": 440
+                },
+                {
+                  "name": "Pan árabe con pollo y verduras a la plancha",
+                  "detail": "Pan árabe, pollo asado, calabacines a la plancha",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Chuletas de cerdo empanadas con ensalada mixta",
+                "detail": "Chuletas empanadas al horno, lechuga iceberg aliñada",
+                "kcal": 530,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Chuletas de cerdo empanadas"
+                  ],
+                  "Verduras": [
+                    "Lechuga iceberg",
+                    "Ensalada mixta"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con salsa de garbanzos y romero",
+                  "detail": "Pasta corta, garbanzos, tomate, romero, ajo, aceite de oliva virgen extra",
+                  "kcal": 520
+                },
+                {
+                  "name": "Lenguado al horno con calabacines salteados",
+                  "detail": "Lenguado grande al horno, calabacines salteados con ajo y perejil",
+                  "kcal": 470
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sábado",
+          "fruit": "🍎 Manzanas o fresas",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Arroz basmati con gambas y calabacines",
+                "detail": "Arroz basmati, gambas salteadas, calabacines, ajo, aceite de oliva virgen extra",
+                "kcal": 490,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Arroz basmati"
+                  ],
+                  "Carne & Pescado": [
+                    "Gambas"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con salsa de tomate fresco y albahaca",
+                  "detail": "Pasta, tomates cherry frescos, albahaca, ajo, aceite de oliva virgen extra",
+                  "kcal": 490
+                },
+                {
+                  "name": "Cuscús con garbanzos y verduras asadas",
+                  "detail": "Cuscús, garbanzos, calabacines asados, cebolletas, comino",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pizza margarita",
+                "detail": "Tomate concentrado, mozzarella, albahaca — hecha en casa",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Harina 00",
+                    "Levadura de cerveza",
+                    "Mozzarella"
+                  ],
+                  "Despensa": [
+                    "Tomate concentrado"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza jamón y calabacines",
+                  "detail": "Tomate, mozzarella, jamón cocido, calabacines a la plancha",
+                  "kcal": 700
+                },
+                {
+                  "name": "Pizza atún y cebolla",
+                  "detail": "Tomate, mozzarella, atún, cebolletas",
+                  "kcal": 710
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Domingo",
+          "fruit": "🍓 Fruta de temporada",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Carne picada de cerdo con calabacines y patatas",
+                "detail": "Carne picada de cerdo, calabacines, patatas, tomate, romero",
+                "kcal": 600,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Carne picada ternera/cerdo"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Patatas"
+                  ],
+                  "Despensa": [
+                    "Romero"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con ragú de lentejas",
+                  "detail": "Pasta, lentejas, zanahoria, apio, cebolla, tomate, romero",
+                  "kcal": 550
+                },
+                {
+                  "name": "Salchicha toscana con calabacines estofada",
+                  "detail": "Salchicha asada, calabacines estofada con vinagre de manzana",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pechuga de pollo a la sartén con calabacines",
+                "detail": "Pechuga de pollo, calabacines salteados, ajo, aceite de oliva virgen extra",
+                "kcal": 490,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Pechuga de pollo"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Filete de lubina con calabacines al horno",
+                  "detail": "Lubina con semillas, calabacines al horno con limón y aceite de oliva virgen extra",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta con almejas y tomates cherry",
+                  "detail": "Espaguetis, almejas, tomates cherry, ajo, perejil",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Semana C",
+      "days": [
+        {
+          "day": "Lunes",
+          "fruit": "🍌 Plátano o fresas",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Cuscús con lentejas y tomates cherry",
+                "detail": "Cuscús, lentejas rojas, tomates cherry, perejil, limón",
+                "kcal": 440,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Cuscús",
+                    "Lentejas rojas"
+                  ],
+                  "Verduras": [
+                    "Tomates cherry",
+                    "Cebolletas"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pan árabe con salmón ahumado y cebolletas",
+                  "detail": "Pan árabe, salmón ahumado, cebolletas, aceite de oliva virgen extra",
+                  "kcal": 440
+                },
+                {
+                  "name": "Ensalada de arroz basmati con gambas y calabacines",
+                  "detail": "Arroz basmati, gambas hervidas, calabacines, menta, limón",
+                  "kcal": 460
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Milanesa de pollo al horno con ensalada mixta",
+                "detail": "Milanesa de pollo ligera, ensalada mixta aliñada",
+                "kcal": 510,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Milanesa de pollo"
+                  ],
+                  "Verduras": [
+                    "Ensalada mixta"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con salsa de calamares y tomate",
+                  "detail": "Pasta, calamares, salsa de tomate, aceitunas, perejil",
+                  "kcal": 520
+                },
+                {
+                  "name": "Lomo de cerdo en lonchas con calabacines salteados",
+                  "detail": "Lomo de cerdo a la plancha, calabacines salteados a la sartén",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Martes",
+          "fruit": "🍓 Fresas frescas",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Pasta fría con pesto de alcachofas y atún",
+                "detail": "Pasta corta, pesto de alcachofas, atún, aceitunas, tomates cherry",
+                "kcal": 455,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Pasta"
+                  ],
+                  "Despensa": [
+                    "Pesto de alcachofas",
+                    "Atún en aceite",
+                    "Aceitunas deshuesadas"
+                  ],
+                  "Verduras": [
+                    "Tomates cherry"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Farro con pollo asado y verduras",
+                  "detail": "Farro, pollo asado, calabacines, cebolletas, aceite de oliva virgen extra",
+                  "kcal": 465
+                },
+                {
+                  "name": "Arroz basmati con lentejas y cúrcuma",
+                  "detail": "Arroz basmati, lentejas rojas, cúrcuma, cebolletas, limón",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pechuga de pavo a la sartén con calabacines",
+                "detail": "Pechuga de pavo, calabacines salteados, ajo, perejil",
+                "kcal": 500,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Pechuga de pavo"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Lenguado al horno con calabacines",
+                  "detail": "Lenguado grande al horno, calabacines estofada",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pasta con salsa de tomate, aceitunas y alcaparras",
+                  "detail": "Pasta, salsa de tomate, aceitunas, alcaparras, orégano",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Miércalabacineses",
+          "fruit": "🍎 Manzanas Pink Lady",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Ensalada de farro con atún y tomates cherry",
+                "detail": "Farro, atún en aceite, tomates cherry, aceitunas, albahaca",
+                "kcal": 455,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Farro perlado"
+                  ],
+                  "Despensa": [
+                    "Atún en aceite",
+                    "Aceitunas deshuesadas"
+                  ],
+                  "Verduras": [
+                    "Tomates cherry",
+                    "Albahaca fresca",
+                    "Ensalada mixta"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cuscús con gambas, calabacines y menta",
+                  "detail": "Cuscús, gambas hervidas, calabacines, menta, limón",
+                  "kcal": 450
+                },
+                {
+                  "name": "Pan árabe con jamón cocido y rúcula",
+                  "detail": "Pan árabe, jamón cocido de calidad, rúcula cruda, tomates cherry",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Cordon bleu con calabacines asados",
+                "detail": "Cordon bleu al horno, calabacines asados con aceitunas",
+                "kcal": 520,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Cordon bleu AIA"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con almejas y calabacines",
+                  "detail": "Espaguetis, almejas, calabacines, ajo, perejil, aceite de oliva virgen extra",
+                  "kcal": 510
+                },
+                {
+                  "name": "Sopa de lentejas con pan árabe tostado",
+                  "detail": "Lentejas, zanahoria, apio, cebolla, tomate, comino",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Jueves",
+          "fruit": "🍌 Plátano o nadorcott",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Pasta fría con pesto genovés y gambas",
+                "detail": "Pasta corta, pesto genovés, gambas hervidas, tomates cherry",
+                "kcal": 470,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Pasta"
+                  ],
+                  "Despensa": [
+                    "Pesto genovés"
+                  ],
+                  "Carne & Pescado": [
+                    "Gambas"
+                  ],
+                  "Verduras": [
+                    "Tomates cherry"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cuscús con garbanzos y verduras asadas",
+                  "detail": "Cuscús, garbanzos, calabacines asados, cebolletas, comino",
+                  "kcal": 460
+                },
+                {
+                  "name": "Arroz basmati con atún y tomates cherry",
+                  "detail": "Arroz basmati, atún en aceite, tomates cherry, aceitunas, cebollino",
+                  "kcal": 465
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Salchicha toscana con patatas nuevas",
+                "detail": "Salchicha asada, patatas nuevas al romero",
+                "kcal": 560,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Salchicha toscana"
+                  ],
+                  "Verduras": [
+                    "Calabacines",
+                    "Patatas nuevas",
+                    "Patatas"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Gambas al horno con rúcula y limón",
+                  "detail": "Gambas, rúcula, aceite de oliva virgen extra, limón, perejil, ajo",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta con salsa de carne picada y tomate",
+                  "detail": "Pasta, carne picada ternera/cerdo, salsa de tomate, zanahoria, apio, cebolla",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Viernes",
+          "fruit": "🍓 Fresas o manzana",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Farro frío con salmón y alcaparras",
+                "detail": "Farro, salmón ahumado, alcaparras, cebolletas, limón",
+                "kcal": 460,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Farro perlado"
+                  ],
+                  "Carne & Pescado": [
+                    "Salmón ahumado"
+                  ],
+                  "Verduras": [
+                    "Cebolletas"
+                  ],
+                  "Despensa": [
+                    "Alcaparras"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Ensalada de atún con rúcula y vinagre de manzana",
+                  "detail": "Atún en aceite, rúcula, cebolletas, aceitunas, vinagre de manzana",
+                  "kcal": 430
+                },
+                {
+                  "name": "Cuscús con lentejas rojas y cúrcuma",
+                  "detail": "Cuscús, lentejas rojas, cebolletas, cúrcuma, tomates cherry",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pechuga de pollo con calabacines y kéfir griego",
+                "detail": "Pechuga de pollo a la sartén, calabacines, kéfir griego como salsa",
+                "kcal": 490,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Pechuga de pollo"
+                  ],
+                  "Lácteos & Huevos": [
+                    "Kéfir griego"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con salsa de garbanzos y romero",
+                  "detail": "Pasta corta, garbanzos, tomate, romero, ajo, aceite de oliva virgen extra",
+                  "kcal": 520
+                },
+                {
+                  "name": "Calamares guisados con aceitunas y tomate",
+                  "detail": "Calamares, salsa de tomate, aceitunas, alcaparras, perejil",
+                  "kcal": 480
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sábado",
+          "fruit": "🍓 Fruta de temporada",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Pasta con salsa de tomate y ricota",
+                "detail": "Pasta, salsa de tomate, ricota fresca, albahaca",
+                "kcal": 520,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Pasta"
+                  ],
+                  "Lácteos & Huevos": [
+                    "Ricota fresca"
+                  ],
+                  "Verduras": [
+                    "Tomates cherry",
+                    "Albahaca fresca"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Arroz basmati con garbanzos y cúrcuma",
+                  "detail": "Arroz basmati, garbanzos, cúrcuma, cebolletas, limón, aceite de oliva virgen extra",
+                  "kcal": 490
+                },
+                {
+                  "name": "Chuletas de cerdo empanadas con ensalada y tomates cherry",
+                  "detail": "Chuletas empanadas al horno, lechuga iceberg, tomates cherry",
+                  "kcal": 530
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Pizza margarita",
+                "detail": "Tomate concentrado, mozzarella, albahaca — hecha en casa",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Harina 00",
+                    "Levadura de cerveza",
+                    "Mozzarella"
+                  ],
+                  "Despensa": [
+                    "Tomate concentrado"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza salmón y cebolletas",
+                  "detail": "Base blanca, mozzarella, salmón ahumado, cebolletas",
+                  "kcal": 700
+                },
+                {
+                  "name": "Pizza salchicha y calabacines",
+                  "detail": "Tomate, mozzarella, salchicha desmenuzada, calabacines",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Domingo",
+          "fruit": "🍌 Plátano y fresas",
+          "meals": [
+            {
+              "label": "Almuerzo",
+              "main": {
+                "name": "Carne picada mixta con calabacines y arroz basmati",
+                "detail": "Carne picada ternera/cerdo a la sartén, calabacines, tomate, arroz basmati",
+                "kcal": 580,
+                "ingredients": {
+                  "Cereales & Legumbres": [
+                    "Arroz basmati"
+                  ],
+                  "Carne & Pescado": [
+                    "Carne picada ternera/cerdo"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta con ragú de lentejas",
+                  "detail": "Pasta, lentejas, zanahoria, apio, cebolla, tomate, romero",
+                  "kcal": 550
+                },
+                {
+                  "name": "Garbanzos guisados con salchicha y romero",
+                  "detail": "Garbanzos, salchicha desmenuzada, romero, tomate, ajo",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Cena",
+              "main": {
+                "name": "Filete de lubina con calabacines salteados",
+                "detail": "Lubina con semillas, calabacines salteados con ajo y perejil",
+                "kcal": 500,
+                "ingredients": {
+                  "Carne & Pescado": [
+                    "Lubina con semillas"
+                  ],
+                  "Verduras": [
+                    "Calabacines"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cordon bleu al horno con calabacines y ensalada",
+                  "detail": "Cordon bleu AIA al horno, calabacines salteados, ensalada mixta",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pasta con gambas y tomates cherry",
+                  "detail": "Pasta, gambas, tomates cherry, ajo, perejil, aceite de oliva virgen extra",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

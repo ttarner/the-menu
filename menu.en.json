@@ -1,0 +1,1450 @@
+{
+  "baseIngredients": {
+    "Pantry": [
+      "Extra virgin olive oil",
+      "Salt",
+      "Garlic",
+      "Parsley",
+      "Lemon"
+    ]
+  },
+  "weeks": [
+    {
+      "label": "Week A",
+      "days": [
+        {
+          "day": "Monday",
+          "fruit": "🍎 Pink Lady apple",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Basmati rice salad with tuna",
+                "detail": "Basmati rice, tuna in oil, cherry tomatoes, olives, chives",
+                "kcal": 480,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Basmati rice"
+                  ],
+                  "Pantry": [
+                    "Tuna in oil",
+                    "Pitted olives"
+                  ],
+                  "Vegetables": [
+                    "Cherry tomatoes",
+                    "Chives",
+                    "Mixed salad"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cold pasta with pesto and cherry tomatoes",
+                  "detail": "Short pasta, Genovese pesto, cherry tomatoes, pitted olives",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pita bread with cooked ham and vegetables",
+                  "detail": "Pita bread, cooked ham, lettuce, cherry tomatoes",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Oven-baked turkey breast with zucchini",
+                "detail": "Turkey breast, sautéed zucchini, rosemary, extra virgin olive oil",
+                "kcal": 520,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Turkey breast"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ],
+                  "Pantry": [
+                    "Rosemary"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Steamed salmon with zucchini",
+                  "detail": "Salmon fillet, zucchini braised with apple cider vinegar",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pasta with tomato sauce and ricotta",
+                  "detail": "Pasta, tomato passata, fresh ricotta, basil",
+                  "kcal": 540
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "fruit": "🍓 Fresh strawberries",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Farro with tuna, olives, and cherry tomatoes",
+                "detail": "Pearled farro, tuna in oil, olives, cherry tomatoes, basil",
+                "kcal": 460,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pearled farro"
+                  ],
+                  "Pantry": [
+                    "Tuna in oil",
+                    "Pitted olives"
+                  ],
+                  "Vegetables": [
+                    "Cherry tomatoes",
+                    "Fresh basil"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pita bread with roast chicken and mustard",
+                  "detail": "Pita bread, sliced roast chicken, lettuce, mustard",
+                  "kcal": 440
+                },
+                {
+                  "name": "Cold pasta with artichoke pesto and tuna",
+                  "detail": "Short pasta, artichoke pesto, tuna, olives",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Pan-fried chicken breast with zucchini",
+                "detail": "Chicken slices, zucchini, cherry tomatoes, basil",
+                "kcal": 510,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Chicken breast"
+                  ],
+                  "Vegetables": [
+                    "Zucchini",
+                    "Cherry tomatoes",
+                    "Fresh basil"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Squid stew with tomato and olives",
+                  "detail": "Squid, tomato passata, olives, capers, parsley",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta with sausage and zucchini sauce",
+                  "detail": "Pasta, crumbled Tuscan sausage, zucchini, tomato",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "fruit": "🍌 Banana",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Couscous with red lentils and turmeric",
+                "detail": "Couscous, red lentils, spring onions, turmeric, lemon",
+                "kcal": 440,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Couscous",
+                    "Red lentils"
+                  ],
+                  "Vegetables": [
+                    "Spring onions"
+                  ],
+                  "Pantry": [
+                    "Turmeric"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Tuna salad with arugula and olives",
+                  "detail": "Tuna in oil, arugula, spring onions, olives, apple cider vinegar",
+                  "kcal": 430
+                },
+                {
+                  "name": "Cold pasta with zucchini and mint",
+                  "detail": "Short pasta, grilled zucchini, mint, extra virgin olive oil, lemon",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Seed-crusted sea bass fillet with zucchini",
+                "detail": "Seed-crusted sea bass, zucchini braised with apple cider vinegar",
+                "kcal": 530,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Seed-crusted sea bass"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ],
+                  "Pantry": [
+                    "Apple cider vinegar"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Sautéed shrimp with zucchini and basmati rice",
+                  "detail": "Shrimp, zucchini, garlic, extra virgin olive oil, basmati rice",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pasta with clams and cherry tomatoes",
+                  "detail": "Spaghetti, clams, cherry tomatoes, garlic, parsley",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "fruit": "🍓 Strawberries",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Basmati rice with roast chicken and zucchini",
+                "detail": "Basmati rice, roast chicken, sautéed zucchini, chives",
+                "kcal": 470,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Basmati rice"
+                  ],
+                  "Meat & Fish": [
+                    "Roast chicken"
+                  ],
+                  "Vegetables": [
+                    "Zucchini",
+                    "Chives"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Farro salad with smoked salmon",
+                  "detail": "Farro, smoked salmon, spring onions, capers, lemon",
+                  "kcal": 460
+                },
+                {
+                  "name": "Couscous with grilled vegetables and feta",
+                  "detail": "Couscous, zucchini, zucchini, spring onions, crumbled feta",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Sliced pork loin with zucchini",
+                "detail": "Pan-seared pork loin, garlic zucchini",
+                "kcal": 540,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Sliced pork loin"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Oven-baked sole with gratinéed zucchini",
+                  "detail": "Large sole, oven-baked zucchini with breadcrumbs and lemon",
+                  "kcal": 480
+                },
+                {
+                  "name": "Lentil soup with toasted pita bread",
+                  "detail": "Lentils, carrot, celery, onion, tomato, cumin",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "fruit": "🍌 Banana",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Cold couscous with shrimp and zucchini",
+                "detail": "Couscous, boiled shrimp, zucchini, mint, lemon",
+                "kcal": 450,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Couscous"
+                  ],
+                  "Meat & Fish": [
+                    "Shrimp"
+                  ],
+                  "Vegetables": [
+                    "Zucchini",
+                    "Mint"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pita bread with smoked salmon and spring onions",
+                  "detail": "Pita bread, smoked salmon, spring onions, extra virgin olive oil",
+                  "kcal": 440
+                },
+                {
+                  "name": "Cold farro with tuna and zucchini",
+                  "detail": "Farro, tuna, roasted zucchini, olives, parsley",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Oven-baked zucchini frittata with salad",
+                "detail": "3-egg frittata with zucchini and aromatic herbs, oven-baked, dressed salad",
+                "kcal": 420,
+                "ingredients": {
+                  "Dairy & Eggs": [
+                    "Eggs"
+                  ],
+                  "Vegetables": [
+                    "Zucchini",
+                    "Iceberg lettuce",
+                    "Mixed salad"
+                  ],
+                  "Pantry": [
+                    "Aromatic herbs",
+                    "Extra virgin olive oil"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Fried eggs with tomato and whole wheat bread",
+                  "detail": "Fried eggs on a bed of sautéed tomato, toasted whole wheat bread",
+                  "kcal": 380
+                },
+                {
+                  "name": "Oven-baked cordon bleu with Greek kefir and salad",
+                  "detail": "AIA cordon bleu baked, Greek kefir as sauce, salad",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "fruit": "🍎 Pink Lady apples",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Pork cutlets with oven-baked zucchini",
+                "detail": "Oven-baked breaded cutlets, gratinéed zucchini and new potatoes",
+                "kcal": 540,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Breaded pork cutlets"
+                  ],
+                  "Vegetables": [
+                    "Arugula",
+                    "Zucchini",
+                    "New potatoes",
+                    "Potatoes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with fresh tomato sauce and basil",
+                  "detail": "Pasta, fresh cherry tomatoes, basil, garlic, extra virgin olive oil",
+                  "kcal": 490
+                },
+                {
+                  "name": "Farro with chickpeas, zucchini, and olives",
+                  "detail": "Farro, chickpeas, roasted zucchini, olives, parsley, lemon",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Margherita pizza",
+                "detail": "Tomato paste, mozzarella, basil — homemade",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "00 flour",
+                    "Brewer's yeast",
+                    "Mozzarella"
+                  ],
+                  "Pantry": [
+                    "Tomato paste"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Ham and mushroom pizza",
+                  "detail": "Tomato, mozzarella, cooked ham, mushrooms",
+                  "kcal": 720
+                },
+                {
+                  "name": "Sausage and zucchini pizza",
+                  "detail": "Tomato, mozzarella, crumbled sausage, zucchini",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "fruit": "🍓 Strawberries or seasonal fruit",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Tuscan sausage with zucchini and potatoes",
+                "detail": "Roasted sausage, zucchini, crispy potatoes",
+                "kcal": 620,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Tuscan sausage"
+                  ],
+                  "Vegetables": [
+                    "Zucchini",
+                    "Potatoes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with mixed meat ragù",
+                  "detail": "Pasta, beef/pork mince, carrot, celery, onion, tomato",
+                  "kcal": 590
+                },
+                {
+                  "name": "Chickpea stew with tomato and rosemary",
+                  "detail": "Chickpeas, tomato passata, rosemary, garlic, extra virgin olive oil, pita bread",
+                  "kcal": 540
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Chicken valdostana with mixed salad",
+                "detail": "Light chicken valdostana, seasonal salad",
+                "kcal": 500,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Chicken valdostana"
+                  ],
+                  "Vegetables": [
+                    "Mixed salad"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Lemon sole with sautéed zucchini",
+                  "detail": "Large oven-baked sole, zucchini sautéed with garlic and parsley",
+                  "kcal": 470
+                },
+                {
+                  "name": "Ground pork with zucchini and basmati rice",
+                  "detail": "Pan-fried ground pork with zucchini, tomato, basmati rice",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week B",
+      "days": [
+        {
+          "day": "Monday",
+          "fruit": "🍓 Strawberries or cherries",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Cold pasta with tuna, artichokes, and olives",
+                "detail": "Short pasta, tuna, artichoke pesto, pitted olives",
+                "kcal": 460,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pasta"
+                  ],
+                  "Pantry": [
+                    "Tuna in oil",
+                    "Artichoke pesto",
+                    "Pitted olives"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous with grilled vegetables and feta",
+                  "detail": "Couscous, zucchini, zucchini, spring onions, crumbled feta",
+                  "kcal": 450
+                },
+                {
+                  "name": "Basmati rice with smoked salmon and spring onions",
+                  "detail": "Basmati rice, smoked salmon, spring onions, lemon",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Oven-baked cordon bleu with arugula salad",
+                "detail": "Oven-baked cordon bleu, raw arugula with lemon and extra virgin olive oil",
+                "kcal": 490,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "AIA cordon bleu"
+                  ],
+                  "Vegetables": [
+                    "Arugula",
+                    "Mixed salad"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with tomato sauce, basil, and olives",
+                  "detail": "Pasta, tomato passata, olives, basil, extra virgin olive oil",
+                  "kcal": 500
+                },
+                {
+                  "name": "Chicken breast with zucchini and cherry tomatoes",
+                  "detail": "Pan-fried chicken breast, zucchini, cherry tomatoes, basil",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "fruit": "🍌 Banana",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Cold farro with lentils and vegetables",
+                "detail": "Farro, red lentils, zucchini, spring onions, turmeric, lemon",
+                "kcal": 455,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pearled farro",
+                    "Red lentils"
+                  ],
+                  "Vegetables": [
+                    "Zucchini",
+                    "Spring onions"
+                  ],
+                  "Pantry": [
+                    "Turmeric"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pita bread with tuna and mixed vegetables",
+                  "detail": "Pita bread, tuna in oil, cherry tomatoes, lettuce, olives",
+                  "kcal": 430
+                },
+                {
+                  "name": "Basmati rice salad with chicken and zucchini",
+                  "detail": "Basmati rice, roast chicken, roasted zucchini, olives",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Sliced pork loin with zucchini",
+                "detail": "Pan-seared pork loin, zucchini braised with apple cider vinegar",
+                "kcal": 530,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Sliced pork loin"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ],
+                  "Pantry": [
+                    "Apple cider vinegar"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with clams and zucchini",
+                  "detail": "Spaghetti, clams, zucchini, garlic, parsley, extra virgin olive oil",
+                  "kcal": 510
+                },
+                {
+                  "name": "Chickpea and tomato soup with pita bread",
+                  "detail": "Chickpeas, tomato, rosemary, garlic, extra virgin olive oil, toasted pita bread",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "fruit": "🍎 Pink Lady apple",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Pita bread with cooked ham and arugula",
+                "detail": "Pita bread, high-quality cooked ham, raw arugula, mustard",
+                "kcal": 420,
+                "ingredients": {
+                  "Pantry": [
+                    "Pita bread"
+                  ],
+                  "Meat & Fish": [
+                    "Cooked ham"
+                  ],
+                  "Vegetables": [
+                    "Arugula"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous with shrimp and mint",
+                  "detail": "Couscous, boiled shrimp, mint, lemon, extra virgin olive oil",
+                  "kcal": 450
+                },
+                {
+                  "name": "Cold pasta with Genovese pesto and cherry tomatoes",
+                  "detail": "Short pasta, Genovese pesto, cherry tomatoes, olives",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Zucchini and potato frittata",
+                "detail": "3-egg frittata with zucchini and sautéed potatoes, herbs to taste",
+                "kcal": 460,
+                "ingredients": {
+                  "Dairy & Eggs": [
+                    "Eggs"
+                  ],
+                  "Vegetables": [
+                    "Zucchini",
+                    "Potatoes"
+                  ],
+                  "Pantry": [
+                    "Extra virgin olive oil"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Zucchini frittata with salad",
+                  "detail": "2-3 egg frittata with zucchini, dressed mixed salad",
+                  "kcal": 390
+                },
+                {
+                  "name": "Oven-baked cordon bleu with sautéed zucchini",
+                  "detail": "AIA cordon bleu baked, pan-sautéed zucchini",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "fruit": "🍓 Fresh strawberries",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Farro with tuna, olives, and cherry tomatoes",
+                "detail": "Pearled farro, tuna in oil, olives, cherry tomatoes, basil",
+                "kcal": 460,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pearled farro"
+                  ],
+                  "Pantry": [
+                    "Tuna in oil",
+                    "Pitted olives"
+                  ],
+                  "Vegetables": [
+                    "Cherry tomatoes",
+                    "Fresh basil"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Basmati rice with red lentils and turmeric",
+                  "detail": "Basmati rice, red lentils, spring onions, turmeric, lemon",
+                  "kcal": 450
+                },
+                {
+                  "name": "Cold couscous with vegetables and feta",
+                  "detail": "Couscous, zucchini, zucchini, crumbled feta, olives",
+                  "kcal": 445
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Turkey breast with zucchini",
+                "detail": "Oven-baked turkey breast, Pugliese zucchini sautéed with garlic",
+                "kcal": 500,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Turkey breast"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Stuffed squid in tomato sauce",
+                  "detail": "Squid, breadcrumbs, parsley, garlic, tomato passata",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pasta with meat and tomato sauce",
+                  "detail": "Pasta, beef/pork mince, passata, carrot, celery, onion",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "fruit": "🍌 Banana or nadorcott",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Farro salad with salmon and capers",
+                "detail": "Farro, smoked salmon, capers, spring onions, lemon",
+                "kcal": 460,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pearled farro"
+                  ],
+                  "Meat & Fish": [
+                    "Smoked salmon"
+                  ],
+                  "Vegetables": [
+                    "Spring onions",
+                    "Mixed salad"
+                  ],
+                  "Pantry": [
+                    "Capers"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cold pasta with zucchini and mint",
+                  "detail": "Short pasta, grilled zucchini, mint, extra virgin olive oil, lemon",
+                  "kcal": 440
+                },
+                {
+                  "name": "Pita bread with chicken and grilled vegetables",
+                  "detail": "Pita bread, roast chicken, grilled zucchini",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Pork cutlets with mixed salad",
+                "detail": "Oven-baked breaded cutlets, dressed iceberg lettuce",
+                "kcal": 530,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Breaded pork cutlets"
+                  ],
+                  "Vegetables": [
+                    "Iceberg lettuce",
+                    "Mixed salad"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with chickpea and rosemary sauce",
+                  "detail": "Short pasta, chickpeas, tomato, rosemary, garlic, extra virgin olive oil",
+                  "kcal": 520
+                },
+                {
+                  "name": "Oven-baked sole with sautéed zucchini",
+                  "detail": "Large oven-baked sole, zucchini sautéed with garlic and parsley",
+                  "kcal": 470
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "fruit": "🍎 Apples or strawberries",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Basmati rice with shrimp and zucchini",
+                "detail": "Basmati rice, sautéed shrimp, zucchini, garlic, extra virgin olive oil",
+                "kcal": 490,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Basmati rice"
+                  ],
+                  "Meat & Fish": [
+                    "Shrimp"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with fresh tomato sauce and basil",
+                  "detail": "Pasta, fresh cherry tomatoes, basil, garlic, extra virgin olive oil",
+                  "kcal": 490
+                },
+                {
+                  "name": "Couscous with chickpeas and roasted vegetables",
+                  "detail": "Couscous, chickpeas, roasted zucchini, spring onions, cumin",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Margherita pizza",
+                "detail": "Tomato paste, mozzarella, basil — homemade",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "00 flour",
+                    "Brewer's yeast",
+                    "Mozzarella"
+                  ],
+                  "Pantry": [
+                    "Tomato paste"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Ham and zucchini pizza",
+                  "detail": "Tomato, mozzarella, cooked ham, grilled zucchini",
+                  "kcal": 700
+                },
+                {
+                  "name": "Tuna and onion pizza",
+                  "detail": "Tomato, mozzarella, tuna, spring onions",
+                  "kcal": 710
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "fruit": "🍓 Seasonal fruit",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Ground pork with zucchini and potatoes",
+                "detail": "Ground pork, zucchini, potatoes, tomato, rosemary",
+                "kcal": 600,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Beef/pork mince"
+                  ],
+                  "Vegetables": [
+                    "Zucchini",
+                    "Potatoes"
+                  ],
+                  "Pantry": [
+                    "Rosemary"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with lentil ragù",
+                  "detail": "Pasta, lentils, carrot, celery, onion, tomato, rosemary",
+                  "kcal": 550
+                },
+                {
+                  "name": "Tuscan sausage with braised zucchini",
+                  "detail": "Roasted sausage, zucchini braised with apple cider vinegar",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Pan-fried chicken breast with zucchini",
+                "detail": "Chicken breast, sautéed Pugliese zucchini, garlic, extra virgin olive oil",
+                "kcal": 490,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Chicken breast"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Sea bass fillet with oven-baked zucchini",
+                  "detail": "Seed-crusted sea bass, oven-baked zucchini with lemon and extra virgin olive oil",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta with clams and cherry tomatoes",
+                  "detail": "Spaghetti, clams, cherry tomatoes, garlic, parsley",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Week C",
+      "days": [
+        {
+          "day": "Monday",
+          "fruit": "🍌 Banana or strawberries",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Couscous with lentils and cherry tomatoes",
+                "detail": "Couscous, red lentils, cherry tomatoes, parsley, lemon",
+                "kcal": 440,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Couscous",
+                    "Red lentils"
+                  ],
+                  "Vegetables": [
+                    "Cherry tomatoes",
+                    "Spring onions"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pita bread with smoked salmon and spring onions",
+                  "detail": "Pita bread, smoked salmon, spring onions, extra virgin olive oil",
+                  "kcal": 440
+                },
+                {
+                  "name": "Basmati rice salad with shrimp and zucchini",
+                  "detail": "Basmati rice, boiled shrimp, zucchini, mint, lemon",
+                  "kcal": 460
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Oven-baked chicken valdostana with mixed salad",
+                "detail": "Light chicken valdostana, dressed mixed salad",
+                "kcal": 510,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Chicken valdostana"
+                  ],
+                  "Vegetables": [
+                    "Mixed salad"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with squid and tomato sauce",
+                  "detail": "Pasta, squid, tomato passata, olives, parsley",
+                  "kcal": 520
+                },
+                {
+                  "name": "Sliced pork loin with sautéed zucchini",
+                  "detail": "Pan-seared pork loin, zucchini sautéed in pan",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "fruit": "🍓 Fresh strawberries",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Cold pasta with artichoke pesto and tuna",
+                "detail": "Short pasta, artichoke pesto, tuna, olives, cherry tomatoes",
+                "kcal": 455,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pasta"
+                  ],
+                  "Pantry": [
+                    "Artichoke pesto",
+                    "Tuna in oil",
+                    "Pitted olives"
+                  ],
+                  "Vegetables": [
+                    "Cherry tomatoes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Farro with roast chicken and vegetables",
+                  "detail": "Farro, roast chicken, zucchini, spring onions, extra virgin olive oil",
+                  "kcal": 465
+                },
+                {
+                  "name": "Basmati rice with lentils and turmeric",
+                  "detail": "Basmati rice, red lentils, turmeric, spring onions, lemon",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Pan-fried turkey breast with zucchini",
+                "detail": "Turkey breast, zucchini sautéed with garlic, parsley",
+                "kcal": 500,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Turkey breast"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Oven-baked sole with zucchini",
+                  "detail": "Large oven-baked sole, braised zucchini",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pasta with tomato sauce, olives, and capers",
+                  "detail": "Pasta, tomato passata, olives, capers, oregano",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "fruit": "🍎 Pink Lady apples",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Farro salad with tuna and cherry tomatoes",
+                "detail": "Farro, tuna in oil, cherry tomatoes, olives, basil",
+                "kcal": 455,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pearled farro"
+                  ],
+                  "Pantry": [
+                    "Tuna in oil",
+                    "Pitted olives"
+                  ],
+                  "Vegetables": [
+                    "Cherry tomatoes",
+                    "Fresh basil",
+                    "Mixed salad"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous with shrimp, zucchini, and mint",
+                  "detail": "Couscous, boiled shrimp, zucchini, mint, lemon",
+                  "kcal": 450
+                },
+                {
+                  "name": "Pita bread with cooked ham and arugula",
+                  "detail": "Pita bread, high-quality cooked ham, raw arugula, cherry tomatoes",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Cordon bleu with roasted zucchini",
+                "detail": "Oven-baked cordon bleu, mixed roasted zucchini with olives",
+                "kcal": 520,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "AIA cordon bleu"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with clams and zucchini",
+                  "detail": "Spaghetti, clams, zucchini, garlic, parsley, extra virgin olive oil",
+                  "kcal": 510
+                },
+                {
+                  "name": "Lentil soup with toasted pita bread",
+                  "detail": "Lentils, carrot, celery, onion, tomato, cumin",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "fruit": "🍌 Banana or nadorcott",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Cold pasta with Genovese pesto and shrimp",
+                "detail": "Short pasta, Genovese pesto, boiled shrimp, cherry tomatoes",
+                "kcal": 470,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pasta"
+                  ],
+                  "Pantry": [
+                    "Genovese pesto"
+                  ],
+                  "Meat & Fish": [
+                    "Shrimp"
+                  ],
+                  "Vegetables": [
+                    "Cherry tomatoes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous with chickpeas and roasted vegetables",
+                  "detail": "Couscous, chickpeas, roasted zucchini, spring onions, cumin",
+                  "kcal": 460
+                },
+                {
+                  "name": "Basmati rice with tuna and cherry tomatoes",
+                  "detail": "Basmati rice, tuna in oil, cherry tomatoes, olives, chives",
+                  "kcal": 465
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Tuscan sausage with sautéed zucchini",
+                "detail": "Roasted sausage, Pugliese zucchini sautéed with garlic",
+                "kcal": 560,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Tuscan sausage"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Oven-baked shrimp with arugula and lemon",
+                  "detail": "Shrimp, arugula, extra virgin olive oil, lemon, parsley, garlic",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pasta with meat and tomato sauce",
+                  "detail": "Pasta, beef/pork mince, passata, carrot, celery, onion",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "fruit": "🍓 Strawberries or apple",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Cold farro with salmon and capers",
+                "detail": "Farro, smoked salmon, capers, spring onions, lemon",
+                "kcal": 460,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pearled farro"
+                  ],
+                  "Meat & Fish": [
+                    "Smoked salmon"
+                  ],
+                  "Vegetables": [
+                    "Spring onions"
+                  ],
+                  "Pantry": [
+                    "Capers"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Tuna salad with arugula and apple cider vinegar",
+                  "detail": "Tuna in oil, arugula, spring onions, olives, apple cider vinegar",
+                  "kcal": 430
+                },
+                {
+                  "name": "Couscous with red lentils and turmeric",
+                  "detail": "Couscous, red lentils, spring onions, turmeric, cherry tomatoes",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Chicken breast with zucchini and Greek kefir",
+                "detail": "Pan-fried chicken breast, zucchini, Greek kefir as sauce",
+                "kcal": 490,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Chicken breast"
+                  ],
+                  "Dairy & Eggs": [
+                    "Greek kefir"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with chickpea and rosemary sauce",
+                  "detail": "Short pasta, chickpeas, tomato, rosemary, garlic, extra virgin olive oil",
+                  "kcal": 520
+                },
+                {
+                  "name": "Squid stew with olives and tomato",
+                  "detail": "Squid, tomato passata, olives, capers, parsley",
+                  "kcal": 480
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "fruit": "🍓 Seasonal fruit",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Pasta with tomato sauce and ricotta",
+                "detail": "Pasta, tomato passata, fresh ricotta, basil",
+                "kcal": 520,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Pasta"
+                  ],
+                  "Dairy & Eggs": [
+                    "Fresh ricotta"
+                  ],
+                  "Vegetables": [
+                    "Cherry tomatoes",
+                    "Fresh basil"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Basmati rice with chickpeas and turmeric",
+                  "detail": "Basmati rice, chickpeas, turmeric, spring onions, lemon, extra virgin olive oil",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pork cutlets with salad and cherry tomatoes",
+                  "detail": "Oven-baked breaded cutlets, iceberg lettuce, cherry tomatoes",
+                  "kcal": 530
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Margherita pizza",
+                "detail": "Tomato paste, mozzarella, basil — homemade",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "00 flour",
+                    "Brewer's yeast",
+                    "Mozzarella"
+                  ],
+                  "Pantry": [
+                    "Tomato paste"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Salmon and spring onion pizza",
+                  "detail": "White base, mozzarella, smoked salmon, spring onions",
+                  "kcal": 700
+                },
+                {
+                  "name": "Sausage and zucchini pizza",
+                  "detail": "Tomato, mozzarella, crumbled sausage, zucchini",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "fruit": "🍌 Banana and strawberries",
+          "meals": [
+            {
+              "label": "Lunch",
+              "main": {
+                "name": "Mixed mince with zucchini and basmati rice",
+                "detail": "Beef/pork mince pan-fried, zucchini, tomato, basmati rice",
+                "kcal": 580,
+                "ingredients": {
+                  "Grains & Legumes": [
+                    "Basmati rice"
+                  ],
+                  "Meat & Fish": [
+                    "Beef/pork mince"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pasta with lentil ragù",
+                  "detail": "Pasta, lentils, carrot, celery, onion, tomato, rosemary",
+                  "kcal": 550
+                },
+                {
+                  "name": "Chickpea stew with sausage and rosemary",
+                  "detail": "Chickpeas, crumbled sausage, rosemary, tomato, garlic",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Dinner",
+              "main": {
+                "name": "Sea bass fillet with sautéed zucchini",
+                "detail": "Seed-crusted sea bass, zucchini sautéed with garlic and parsley",
+                "kcal": 500,
+                "ingredients": {
+                  "Meat & Fish": [
+                    "Seed-crusted sea bass"
+                  ],
+                  "Vegetables": [
+                    "Zucchini"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Oven-baked cordon bleu with zucchini and salad",
+                  "detail": "AIA cordon bleu baked, sautéed zucchini, mixed salad",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pasta with shrimp and cherry tomatoes",
+                  "detail": "Pasta, shrimp, cherry tomatoes, garlic, parsley, extra virgin olive oil",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

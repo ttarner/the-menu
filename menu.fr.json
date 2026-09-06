@@ -1,0 +1,1450 @@
+{
+  "baseIngredients": {
+    "Garde-manger": [
+      "Huile d'olive extra vierge",
+      "Sel",
+      "Ail",
+      "Persil",
+      "Citron"
+    ]
+  },
+  "weeks": [
+    {
+      "label": "Semaine A",
+      "days": [
+        {
+          "day": "Lundi",
+          "fruit": "🍎 Pomme Pink Lady",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Salade de riz basmati au thon",
+                "detail": "Riz basmati, thon à l'huile, tomates cerises, olives, ciboulette",
+                "kcal": 480,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Riz basmati"
+                  ],
+                  "Garde-manger": [
+                    "Thon à l'huile",
+                    "Olives dénoyautées"
+                  ],
+                  "Légumes": [
+                    "Tomates cerises",
+                    "Ciboulette",
+                    "Salade composée"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes froides au pesto et tomates cerises",
+                  "detail": "Pâtes courtes, pesto génois, tomates cerises, olives dénoyautées",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pain pita au jambon blanc et légumes",
+                  "detail": "Pain pita, jambon blanc, salade, tomates cerises",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Blanc de dinde au four avec courgettes",
+                "detail": "Blanc de dinde, courgettes sautées, romarin, huile d'olive",
+                "kcal": 520,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Blanc de dinde"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ],
+                  "Garde-manger": [
+                    "Romarin"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Saumon vapeur avec courgettes",
+                  "detail": "Filet de saumon, courgettes braisé au vinaigre de cidre",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pâtes à la sauce tomate et ricotta",
+                  "detail": "Pâtes, coulis de tomate, ricotta fraîche, basilic",
+                  "kcal": 540
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mardi",
+          "fruit": "🍓 Fraises fraîches",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Épeautre au thon, olives et tomates cerises",
+                "detail": "Épeautre perlé, thon à l'huile, olives, tomates cerises, basilic",
+                "kcal": 460,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Épeautre perlé"
+                  ],
+                  "Garde-manger": [
+                    "Thon à l'huile",
+                    "Olives dénoyautées"
+                  ],
+                  "Légumes": [
+                    "Tomates cerises",
+                    "Basilic frais"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pain pita au poulet rôti et moutarde",
+                  "detail": "Pain pita, poulet rôti en tranches, salade, moutarde",
+                  "kcal": 440
+                },
+                {
+                  "name": "Pâtes froides au pesto d'artichauts et thon",
+                  "detail": "Pâtes courtes, pesto d'artichauts, thon, olives",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Blanc de poulet poêlé aux courgettes",
+                "detail": "Escalopes de poulet, courgettes, tomates cerises, basilic",
+                "kcal": 510,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Blanc de poulet"
+                  ],
+                  "Légumes": [
+                    "Courgettes",
+                    "Tomates cerises",
+                    "Basilic frais"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Calamars mijotés à la tomate et aux olives",
+                  "detail": "Calamars, coulis de tomate, olives, câpres, persil",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pâtes à la sauce saucisse et courgettes",
+                  "detail": "Pâtes, saucisse toscane émiettée, courgettes, tomate",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mercredi",
+          "fruit": "🍌 Banane",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Couscous aux lentilles corail et curcuma",
+                "detail": "Couscous, lentilles corail, oignons nouveaux, curcuma, citron",
+                "kcal": 440,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Couscous",
+                    "Lentilles corail"
+                  ],
+                  "Légumes": [
+                    "Oignons nouveaux"
+                  ],
+                  "Garde-manger": [
+                    "Curcuma"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Salade de thon à la roquette et olives",
+                  "detail": "Thon à l'huile, roquette, oignons nouveaux, olives, vinaigre de cidre",
+                  "kcal": 430
+                },
+                {
+                  "name": "Pâtes froides aux courgettes et menthe",
+                  "detail": "Pâtes courtes, courgettes grillées, menthe, huile d'olive, citron",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Filet de bar en croûte de graines avec courgettes",
+                "detail": "Bar en croûte de graines, courgettes braisé au vinaigre de cidre",
+                "kcal": 530,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Bar en croûte de graines"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ],
+                  "Garde-manger": [
+                    "Vinaigre de cidre"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Crevettes sautées aux courgettes et riz basmati",
+                  "detail": "Crevettes, courgettes, ail, huile d'olive, riz basmati",
+                  "kcal": 510
+                },
+                {
+                  "name": "Pâtes aux palourdes et tomates cerises",
+                  "detail": "Spaghetti, palourdes, tomates cerises, ail, persil",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Jeudi",
+          "fruit": "🍓 Fraises",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Riz basmati au poulet rôti et courgettes",
+                "detail": "Riz basmati, poulet rôti, courgettes sautées, ciboulette",
+                "kcal": 470,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Riz basmati"
+                  ],
+                  "Viande & Poisson": [
+                    "Poulet rôti"
+                  ],
+                  "Légumes": [
+                    "Courgettes",
+                    "Ciboulette"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Salade d'épeautre au saumon fumé",
+                  "detail": "Épeautre, saumon fumé, oignons nouveaux, câpres, citron",
+                  "kcal": 460
+                },
+                {
+                  "name": "Couscous aux légumes grillés et feta",
+                  "detail": "Couscous, courgettes, courgettes, oignons nouveaux, feta émiettée",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Émincé de longe de porc avec courgettes",
+                "detail": "Longe de porc poêlée, courgettes à l'ail",
+                "kcal": 540,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Émincé de longe de porc"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Sole au four avec courgettes gratinées",
+                  "detail": "Sole entière, courgettes au four avec chapelure et citron",
+                  "kcal": 480
+                },
+                {
+                  "name": "Soupe de lentilles avec pain pita grillé",
+                  "detail": "Lentilles, carotte, céleri, oignon, tomate, cumin",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Vendredi",
+          "fruit": "🍌 Banane",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Couscous froid aux crevettes et courgettes",
+                "detail": "Couscous, crevettes cuites, courgettes, menthe, citron",
+                "kcal": 450,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Couscous"
+                  ],
+                  "Viande & Poisson": [
+                    "Crevettes"
+                  ],
+                  "Légumes": [
+                    "Courgettes",
+                    "Menthe"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pain pita au saumon fumé et oignons nouveaux",
+                  "detail": "Pain pita, saumon fumé, oignons nouveaux, huile d'olive",
+                  "kcal": 440
+                },
+                {
+                  "name": "Épeautre froid au thon et courgettes",
+                  "detail": "Épeautre, thon, courgettes grillés, olives, persil",
+                  "kcal": 455
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Omelette aux courgettes au four avec salade",
+                "detail": "Omelette de 3 œufs aux courgettes et herbes aromatiques, cuite au four, salade assaisonnée",
+                "kcal": 420,
+                "ingredients": {
+                  "Produits laitiers & Œufs": [
+                    "Œufs"
+                  ],
+                  "Légumes": [
+                    "Courgettes",
+                    "Salade iceberg",
+                    "Salade composée"
+                  ],
+                  "Garde-manger": [
+                    "Herbes aromatiques",
+                    "Huile d'olive extra vierge"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Œufs au plat à la tomate et pain complet",
+                  "detail": "Œufs au plat sur lit de tomates sautées, pain complet grillé",
+                  "kcal": 380
+                },
+                {
+                  "name": "Cordon bleu au four avec kéfir grec et salade",
+                  "detail": "Cordon bleu AIA au four, kéfir grec en sauce, salade",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Samedi",
+          "fruit": "🍎 Pommes Pink Lady",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Côtelettes de porc panées avec courgettes au four",
+                "detail": "Côtelettes panées au four, courgettes gratinées et pommes de terre nouvelles",
+                "kcal": 540,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Côtelettes de porc panées"
+                  ],
+                  "Légumes": [
+                    "Roquette",
+                    "Courgettes",
+                    "Pommes de terre nouvelles",
+                    "Pommes de terre"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes à la sauce tomate fraîche et basilic",
+                  "detail": "Pâtes, tomates cerises fraîches, basilic, ail, huile d'olive",
+                  "kcal": 490
+                },
+                {
+                  "name": "Épeautre aux pois chiches, courgettes et olives",
+                  "detail": "Épeautre, pois chiches, courgettes grillés, olives, persil, citron",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Pizza margherita",
+                "detail": "Concentré de tomate, mozzarella, basilic — faite maison",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Farine 00",
+                    "Levure de boulanger",
+                    "Mozzarella"
+                  ],
+                  "Garde-manger": [
+                    "Concentré de tomate"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza jambon et champignons",
+                  "detail": "Tomate, mozzarella, jambon blanc, champignons",
+                  "kcal": 720
+                },
+                {
+                  "name": "Pizza saucisse et courgettes",
+                  "detail": "Tomate, mozzarella, saucisse émiettée, courgettes",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Dimanche",
+          "fruit": "🍓 Fraises ou fruit de saison",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Saucisse toscane aux courgettes et pommes de terre",
+                "detail": "Saucisse rôtie, courgettes, pommes de terre croustillantes",
+                "kcal": 620,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Saucisse toscane"
+                  ],
+                  "Légumes": [
+                    "Courgettes",
+                    "Pommes de terre"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes au ragù de viande hachée",
+                  "detail": "Pâtes, haché bœuf/porc, carotte, céleri, oignon, tomate",
+                  "kcal": 590
+                },
+                {
+                  "name": "Pois chiches mijotés à la tomate et au romarin",
+                  "detail": "Pois chiches, coulis de tomate, romarin, ail, huile d'olive, pain pita",
+                  "kcal": 540
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Valdostana avec salade composée",
+                "detail": "Valdostana de poulet légère, salade de saison",
+                "kcal": 500,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Valdostana de poulet"
+                  ],
+                  "Légumes": [
+                    "Salade composée"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Sole au citron avec courgettes persillées",
+                  "detail": "Sole entière au four, courgettes persillées à l'ail",
+                  "kcal": 470
+                },
+                {
+                  "name": "Haché de porc aux courgettes et riz basmati",
+                  "detail": "Haché de porc poêlé aux courgettes, tomate, riz basmati",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Semaine B",
+      "days": [
+        {
+          "day": "Lundi",
+          "fruit": "🍓 Fraises ou cerises",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Pâtes froides au thon, artichauts et olives",
+                "detail": "Pâtes courtes, thon, pesto d'artichauts, olives dénoyautées",
+                "kcal": 460,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Pâtes"
+                  ],
+                  "Garde-manger": [
+                    "Thon à l'huile",
+                    "Pesto d'artichauts",
+                    "Olives dénoyautées"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous aux légumes grillés et feta",
+                  "detail": "Couscous, courgettes, courgettes, oignons nouveaux, feta émiettée",
+                  "kcal": 450
+                },
+                {
+                  "name": "Riz basmati au saumon fumé et oignons nouveaux",
+                  "detail": "Riz basmati, saumon fumé, oignons nouveaux, citron",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Cordon bleu au four avec salade de roquette",
+                "detail": "Cordon bleu au four, roquette crue au citron et huile d'olive",
+                "kcal": 490,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Cordon bleu AIA"
+                  ],
+                  "Légumes": [
+                    "Roquette",
+                    "Salade composée"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes à la sauce tomate avec basilic et olives",
+                  "detail": "Pâtes, coulis de tomate, olives, basilic, huile d'olive",
+                  "kcal": 500
+                },
+                {
+                  "name": "Blanc de poulet aux courgettes et tomates cerises",
+                  "detail": "Blanc de poulet poêlé, courgettes, tomates cerises, basilic",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mardi",
+          "fruit": "🍌 Banane",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Épeautre froid aux lentilles et légumes",
+                "detail": "Épeautre, lentilles corail, courgettes, oignons nouveaux, curcuma, citron",
+                "kcal": 455,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Épeautre perlé",
+                    "Lentilles corail"
+                  ],
+                  "Légumes": [
+                    "Courgettes",
+                    "Oignons nouveaux"
+                  ],
+                  "Garde-manger": [
+                    "Curcuma"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pain pita au thon et légumes variés",
+                  "detail": "Pain pita, thon à l'huile, tomates cerises, salade, olives",
+                  "kcal": 430
+                },
+                {
+                  "name": "Salade de riz basmati au poulet et courgettes",
+                  "detail": "Riz basmati, poulet rôti, courgettes grillés, olives",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Émincé de longe de porc avec courgettes",
+                "detail": "Longe de porc poêlée, courgettes braisé au vinaigre de cidre",
+                "kcal": 530,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Émincé de longe de porc"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ],
+                  "Garde-manger": [
+                    "Vinaigre de cidre"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes aux palourdes et courgettes",
+                  "detail": "Spaghetti, palourdes, courgettes, ail, persil, huile d'olive",
+                  "kcal": 510
+                },
+                {
+                  "name": "Soupe de pois chiches à la tomate avec pain pita",
+                  "detail": "Pois chiches, tomate, romarin, ail, huile d'olive, pain pita grillé",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mercredi",
+          "fruit": "🍎 Pomme Pink Lady",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Pain pita au jambon blanc et roquette",
+                "detail": "Pain pita, jambon blanc de qualité, roquette crue, moutarde",
+                "kcal": 420,
+                "ingredients": {
+                  "Garde-manger": [
+                    "Pain pita"
+                  ],
+                  "Viande & Poisson": [
+                    "Jambon blanc"
+                  ],
+                  "Légumes": [
+                    "Roquette"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous aux crevettes et menthe",
+                  "detail": "Couscous, crevettes cuites, menthe, citron, huile d'olive",
+                  "kcal": 450
+                },
+                {
+                  "name": "Pâtes froides au pesto génois et tomates cerises",
+                  "detail": "Pâtes courtes, pesto génois, tomates cerises, olives",
+                  "kcal": 470
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Omelette aux courgettes et pommes de terre",
+                "detail": "Omelette de 3 œufs aux courgettes et pommes de terre sautées, herbes au choix",
+                "kcal": 460,
+                "ingredients": {
+                  "Produits laitiers & Œufs": [
+                    "Œufs"
+                  ],
+                  "Légumes": [
+                    "Courgettes",
+                    "Pommes de terre"
+                  ],
+                  "Garde-manger": [
+                    "Huile d'olive extra vierge"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Omelette aux courgettes avec salade",
+                  "detail": "Omelette de 2-3 œufs aux courgettes, salade composée assaisonnée",
+                  "kcal": 390
+                },
+                {
+                  "name": "Cordon bleu au four avec courgettes sautés",
+                  "detail": "Cordon bleu AIA au four, courgettes sautés à la poêle",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Jeudi",
+          "fruit": "🍓 Fraises fraîches",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Épeautre au thon, olives et tomates cerises",
+                "detail": "Épeautre perlé, thon à l'huile, olives, tomates cerises, basilic",
+                "kcal": 460,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Épeautre perlé"
+                  ],
+                  "Garde-manger": [
+                    "Thon à l'huile",
+                    "Olives dénoyautées"
+                  ],
+                  "Légumes": [
+                    "Tomates cerises",
+                    "Basilic frais"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Riz basmati aux lentilles corail et curcuma",
+                  "detail": "Riz basmati, lentilles corail, oignons nouveaux, curcuma, citron",
+                  "kcal": 450
+                },
+                {
+                  "name": "Couscous froid aux légumes et feta",
+                  "detail": "Couscous, courgettes, courgettes, feta émiettée, olives",
+                  "kcal": 445
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Blanc de dinde aux courgettes",
+                "detail": "Blanc de dinde au four, courgettes sautés à l'ail",
+                "kcal": 500,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Blanc de dinde"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Calamars farcis à la tomate",
+                  "detail": "Calamars, chapelure, persil, ail, coulis de tomate",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pâtes au ragù de viande hachée et tomate",
+                  "detail": "Pâtes, haché bœuf/porc, coulis, carotte, céleri, oignon",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Vendredi",
+          "fruit": "🍌 Banane ou nadorcott",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Salade d'épeautre au saumon et câpres",
+                "detail": "Épeautre, saumon fumé, câpres, oignons nouveaux, citron",
+                "kcal": 460,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Épeautre perlé"
+                  ],
+                  "Viande & Poisson": [
+                    "Saumon fumé"
+                  ],
+                  "Légumes": [
+                    "Oignons nouveaux",
+                    "Salade composée"
+                  ],
+                  "Garde-manger": [
+                    "Câpres"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes froides aux courgettes et menthe",
+                  "detail": "Pâtes courtes, courgettes grillées, menthe, huile d'olive, citron",
+                  "kcal": 440
+                },
+                {
+                  "name": "Pain pita au poulet et légumes grillés",
+                  "detail": "Pain pita, poulet rôti, courgettes grillées",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Côtelettes de porc panées avec salade composée",
+                "detail": "Côtelettes panées au four, salade iceberg assaisonnée",
+                "kcal": 530,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Côtelettes de porc panées"
+                  ],
+                  "Légumes": [
+                    "Salade iceberg",
+                    "Salade composée"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes à la sauce pois chiches et romarin",
+                  "detail": "Pâtes courtes, pois chiches, tomate, romarin, ail, huile d'olive",
+                  "kcal": 520
+                },
+                {
+                  "name": "Sole au four avec courgettes persillées",
+                  "detail": "Sole entière au four, courgettes persillées à l'ail",
+                  "kcal": 470
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Samedi",
+          "fruit": "🍎 Pommes ou fraises",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Riz basmati aux crevettes et courgettes",
+                "detail": "Riz basmati, crevettes sautées, courgettes, ail, huile d'olive",
+                "kcal": 490,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Riz basmati"
+                  ],
+                  "Viande & Poisson": [
+                    "Crevettes"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes à la sauce tomate fraîche et basilic",
+                  "detail": "Pâtes, tomates cerises fraîches, basilic, ail, huile d'olive",
+                  "kcal": 490
+                },
+                {
+                  "name": "Couscous aux pois chiches et légumes rôtis",
+                  "detail": "Couscous, pois chiches, courgettes grillés, oignons nouveaux, cumin",
+                  "kcal": 500
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Pizza margherita",
+                "detail": "Concentré de tomate, mozzarella, basilic — faite maison",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Farine 00",
+                    "Levure de boulanger",
+                    "Mozzarella"
+                  ],
+                  "Garde-manger": [
+                    "Concentré de tomate"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza jambon et courgettes",
+                  "detail": "Tomate, mozzarella, jambon blanc, courgettes grillées",
+                  "kcal": 700
+                },
+                {
+                  "name": "Pizza thon et oignons",
+                  "detail": "Tomate, mozzarella, thon, oignons nouveaux",
+                  "kcal": 710
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Dimanche",
+          "fruit": "🍓 Fruit de saison",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Haché de porc aux courgettes et pommes de terre",
+                "detail": "Haché de porc, courgettes, pommes de terre, tomate, romarin",
+                "kcal": 600,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Haché bœuf/porc"
+                  ],
+                  "Légumes": [
+                    "Courgettes",
+                    "Pommes de terre"
+                  ],
+                  "Garde-manger": [
+                    "Romarin"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes au ragù de lentilles",
+                  "detail": "Pâtes, lentilles, carotte, céleri, oignon, tomate, romarin",
+                  "kcal": 550
+                },
+                {
+                  "name": "Saucisse toscane avec courgettes braisé",
+                  "detail": "Saucisse rôtie, courgettes braisé au vinaigre de cidre",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Blanc de poulet poêlé aux courgettes",
+                "detail": "Blanc de poulet, courgettes sautés, ail, huile d'olive",
+                "kcal": 490,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Blanc de poulet"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Filet de bar aux courgettes au four",
+                  "detail": "Bar en croûte de graines, courgettes au four au citron et huile d'olive",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pâtes aux palourdes et tomates cerises",
+                  "detail": "Spaghetti, palourdes, tomates cerises, ail, persil",
+                  "kcal": 520
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Semaine C",
+      "days": [
+        {
+          "day": "Lundi",
+          "fruit": "🍌 Banane ou fraises",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Couscous aux lentilles et tomates cerises",
+                "detail": "Couscous, lentilles corail, tomates cerises, persil, citron",
+                "kcal": 440,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Couscous",
+                    "Lentilles corail"
+                  ],
+                  "Légumes": [
+                    "Tomates cerises",
+                    "Oignons nouveaux"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pain pita au saumon fumé et oignons nouveaux",
+                  "detail": "Pain pita, saumon fumé, oignons nouveaux, huile d'olive",
+                  "kcal": 440
+                },
+                {
+                  "name": "Salade de riz basmati aux crevettes et courgettes",
+                  "detail": "Riz basmati, crevettes cuites, courgettes, menthe, citron",
+                  "kcal": 460
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Valdostana au four avec salade composée",
+                "detail": "Valdostana de poulet légère, salade composée assaisonnée",
+                "kcal": 510,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Valdostana de poulet"
+                  ],
+                  "Légumes": [
+                    "Salade composée"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes à la sauce calamars et tomate",
+                  "detail": "Pâtes, calamars, coulis de tomate, olives, persil",
+                  "kcal": 520
+                },
+                {
+                  "name": "Émincé de longe de porc aux courgettes sautés",
+                  "detail": "Longe de porc poêlée, courgettes sautés à la poêle",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mardi",
+          "fruit": "🍓 Fraises fraîches",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Pâtes froides au pesto d'artichauts et thon",
+                "detail": "Pâtes courtes, pesto d'artichauts, thon, olives, tomates cerises",
+                "kcal": 455,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Pâtes"
+                  ],
+                  "Garde-manger": [
+                    "Pesto d'artichauts",
+                    "Thon à l'huile",
+                    "Olives dénoyautées"
+                  ],
+                  "Légumes": [
+                    "Tomates cerises"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Épeautre au poulet rôti et légumes",
+                  "detail": "Épeautre, poulet rôti, courgettes, oignons nouveaux, huile d'olive",
+                  "kcal": 465
+                },
+                {
+                  "name": "Riz basmati aux lentilles et curcuma",
+                  "detail": "Riz basmati, lentilles corail, curcuma, oignons nouveaux, citron",
+                  "kcal": 450
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Blanc de dinde poêlé aux courgettes",
+                "detail": "Blanc de dinde, courgettes persillées, ail, persil",
+                "kcal": 500,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Blanc de dinde"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Sole au four avec courgettes",
+                  "detail": "Sole entière au four, courgettes braisé",
+                  "kcal": 470
+                },
+                {
+                  "name": "Pâtes à la sauce tomate avec olives et câpres",
+                  "detail": "Pâtes, coulis de tomate, olives, câpres, origan",
+                  "kcal": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Mercredi",
+          "fruit": "🍎 Pommes Pink Lady",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Salade d'épeautre au thon et tomates cerises",
+                "detail": "Épeautre, thon à l'huile, tomates cerises, olives, basilic",
+                "kcal": 455,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Épeautre perlé"
+                  ],
+                  "Garde-manger": [
+                    "Thon à l'huile",
+                    "Olives dénoyautées"
+                  ],
+                  "Légumes": [
+                    "Tomates cerises",
+                    "Basilic frais",
+                    "Salade composée"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous aux crevettes, courgettes et menthe",
+                  "detail": "Couscous, crevettes cuites, courgettes, menthe, citron",
+                  "kcal": 450
+                },
+                {
+                  "name": "Pain pita au jambon blanc et roquette",
+                  "detail": "Pain pita, jambon blanc de qualité, roquette crue, tomates cerises",
+                  "kcal": 420
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Cordon bleu avec courgettes grillés",
+                "detail": "Cordon bleu au four, courgettes grillés aux olives",
+                "kcal": 520,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Cordon bleu AIA"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes aux palourdes et courgettes",
+                  "detail": "Spaghetti, palourdes, courgettes, ail, persil, huile d'olive",
+                  "kcal": 510
+                },
+                {
+                  "name": "Soupe de lentilles avec pain pita grillé",
+                  "detail": "Lentilles, carotte, céleri, oignon, tomate, cumin",
+                  "kcal": 490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Jeudi",
+          "fruit": "🍌 Banane ou nadorcott",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Pâtes froides au pesto génois et crevettes",
+                "detail": "Pâtes courtes, pesto génois, crevettes cuites, tomates cerises",
+                "kcal": 470,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Pâtes"
+                  ],
+                  "Garde-manger": [
+                    "Pesto génois"
+                  ],
+                  "Viande & Poisson": [
+                    "Crevettes"
+                  ],
+                  "Légumes": [
+                    "Tomates cerises"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Couscous aux pois chiches et légumes rôtis",
+                  "detail": "Couscous, pois chiches, courgettes grillés, oignons nouveaux, cumin",
+                  "kcal": 460
+                },
+                {
+                  "name": "Riz basmati au thon et tomates cerises",
+                  "detail": "Riz basmati, thon à l'huile, tomates cerises, olives, ciboulette",
+                  "kcal": 465
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Saucisse toscane aux courgettes sautés",
+                "detail": "Saucisse rôtie, courgettes sautés à l'ail",
+                "kcal": 560,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Saucisse toscane"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Crevettes au four à la roquette et citron",
+                  "detail": "Crevettes, roquette, huile d'olive, citron, persil, ail",
+                  "kcal": 480
+                },
+                {
+                  "name": "Pâtes au ragù de viande hachée et tomate",
+                  "detail": "Pâtes, haché bœuf/porc, coulis, carotte, céleri, oignon",
+                  "kcal": 560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Vendredi",
+          "fruit": "🍓 Fraises ou pomme",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Épeautre froid au saumon et câpres",
+                "detail": "Épeautre, saumon fumé, câpres, oignons nouveaux, citron",
+                "kcal": 460,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Épeautre perlé"
+                  ],
+                  "Viande & Poisson": [
+                    "Saumon fumé"
+                  ],
+                  "Légumes": [
+                    "Oignons nouveaux"
+                  ],
+                  "Garde-manger": [
+                    "Câpres"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Salade de thon à la roquette et vinaigre de cidre",
+                  "detail": "Thon à l'huile, roquette, oignons nouveaux, olives, vinaigre de cidre",
+                  "kcal": 430
+                },
+                {
+                  "name": "Couscous aux lentilles corail et curcuma",
+                  "detail": "Couscous, lentilles corail, oignons nouveaux, curcuma, tomates cerises",
+                  "kcal": 440
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Blanc de poulet aux courgettes et kéfir grec",
+                "detail": "Blanc de poulet poêlé, courgettes, kéfir grec en sauce",
+                "kcal": 490,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Blanc de poulet"
+                  ],
+                  "Produits laitiers & Œufs": [
+                    "Kéfir grec"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes à la sauce pois chiches et romarin",
+                  "detail": "Pâtes courtes, pois chiches, tomate, romarin, ail, huile d'olive",
+                  "kcal": 520
+                },
+                {
+                  "name": "Calamars mijotés aux olives et tomate",
+                  "detail": "Calamars, coulis de tomate, olives, câpres, persil",
+                  "kcal": 480
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Samedi",
+          "fruit": "🍓 Fruit de saison",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Pâtes à la sauce tomate et ricotta",
+                "detail": "Pâtes, coulis de tomate, ricotta fraîche, basilic",
+                "kcal": 520,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Pâtes"
+                  ],
+                  "Produits laitiers & Œufs": [
+                    "Ricotta fraîche"
+                  ],
+                  "Légumes": [
+                    "Tomates cerises",
+                    "Basilic frais"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Riz basmati aux pois chiches et curcuma",
+                  "detail": "Riz basmati, pois chiches, curcuma, oignons nouveaux, citron, huile d'olive",
+                  "kcal": 490
+                },
+                {
+                  "name": "Côtelettes de porc panées avec salade et tomates cerises",
+                  "detail": "Côtelettes panées au four, salade iceberg, tomates cerises",
+                  "kcal": 530
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Pizza margherita",
+                "detail": "Concentré de tomate, mozzarella, basilic — faite maison",
+                "kcal": 680,
+                "ingredients": {
+                  "Pizza": [
+                    "Farine 00",
+                    "Levure de boulanger",
+                    "Mozzarella"
+                  ],
+                  "Garde-manger": [
+                    "Concentré de tomate"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pizza saumon et oignons nouveaux",
+                  "detail": "Base blanche, mozzarella, saumon fumé, oignons nouveaux",
+                  "kcal": 700
+                },
+                {
+                  "name": "Pizza saucisse et courgettes",
+                  "detail": "Tomate, mozzarella, saucisse émiettée, courgettes",
+                  "kcal": 740
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "Dimanche",
+          "fruit": "🍌 Banane et fraises",
+          "meals": [
+            {
+              "label": "Déjeuner",
+              "main": {
+                "name": "Viande hachée mixte aux courgettes et riz basmati",
+                "detail": "Haché bœuf/porc poêlé, courgettes, tomate, riz basmati",
+                "kcal": 580,
+                "ingredients": {
+                  "Céréales & Légumineuses": [
+                    "Riz basmati"
+                  ],
+                  "Viande & Poisson": [
+                    "Haché bœuf/porc"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Pâtes au ragù de lentilles",
+                  "detail": "Pâtes, lentilles, carotte, céleri, oignon, tomate, romarin",
+                  "kcal": 550
+                },
+                {
+                  "name": "Pois chiches mijotés à la saucisse et au romarin",
+                  "detail": "Pois chiches, saucisse émiettée, romarin, tomate, ail",
+                  "kcal": 590
+                }
+              ]
+            },
+            {
+              "label": "Dîner",
+              "main": {
+                "name": "Filet de bar aux courgettes persillées",
+                "detail": "Bar en croûte de graines, courgettes persillées à l'ail",
+                "kcal": 500,
+                "ingredients": {
+                  "Viande & Poisson": [
+                    "Bar en croûte de graines"
+                  ],
+                  "Légumes": [
+                    "Courgettes"
+                  ]
+                }
+              },
+              "alts": [
+                {
+                  "name": "Cordon bleu au four avec courgettes et salade",
+                  "detail": "Cordon bleu AIA au four, courgettes sautés, salade composée",
+                  "kcal": 490
+                },
+                {
+                  "name": "Pâtes aux crevettes et tomates cerises",
+                  "detail": "Pâtes, crevettes, tomates cerises, ail, persil, huile d'olive",
+                  "kcal": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
